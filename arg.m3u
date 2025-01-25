@@ -43,8 +43,8 @@ http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS 
 http://200.121.48.17:8000/play/a0jm/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS 
+http://161.132.54.176:8000/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 1
 http://190.123.90.146:8000/play/a00j/index.m3u8
