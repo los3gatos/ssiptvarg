@@ -1008,11 +1008,11 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", VORTERIX - 92.1 FM
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="RADIO-AMBA", NEO FM 100.3 F. VARELA
-https://videostream.shockmedia.com.ar:19360/neofm/neofm.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/m3qMf_dlSacY3FiPC_qvonCxCNxncmuZAeZhf3W7bEwjUJpYDOfmjXuUhI2-xZ_6u4U" group-title="RADIO-AMBA", RADIO FMQ QUILMES
-https://g3.vxral-slo.transport.edge-access.net/b08/ngrp:cronica_fmq-100044_all/cronica_fmq-100044_720p.m3u8
+https://g2.mc-hor.transport.edge-access.net/b08/ngrp:cronica_fmq-100044_all/cronica_fmq-100044_540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://murktv.com.ar/wp-content/uploads/2024/09/logo-rk-blanco-250x250.jpg" group-title="RADIO-AMBA", MURKTV QUILMES
+https://videostream.shockmedia.com.ar:19360/murktv/murktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A12ZTP1poAm-r0MSEWCa7r3majA6OuUHKvSHZdaCbiMGccwPQRp2qc_J5lXWPj9drKeZ=s180" group-title="RADIO-AMBA", LA 1130 AM SANTIAGO Y COPLA - G LAFERRERE
 https://panel.host-live.com/8140/8140/playlist.m3u8
