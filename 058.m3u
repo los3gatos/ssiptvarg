@@ -1,8 +1,81 @@
 #EXTM3U    
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Cordoba", El Doce Córdoba
-https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@eldoce/live&uuid=wT+DJMPhsB3a79KOF47Ig4BmRMPmpaGPvDnezQKSiGc=
+#EXTINF:-1 ch-number="141" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney1/mono.m3u8
+
+#EXTINF:-1 ch-number="142" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney2/mono.m3u8
+
+#EXTINF:-1 ch-number="143" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney3/mono.m3u8
+
+#EXTINF:-1 ch-number="144" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney4/mono.m3u8
+
+#EXTINF:-1 ch-number="145" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney5/mono.m3u8
+
+#EXTINF:-1 ch-number="146" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney6/mono.m3u8
+
+#EXTINF:-1 ch-number="147" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney7/mono.m3u8
+
+#EXTINF:-1 ch-number="148" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney8/mono.m3u8
+
+#EXTINF:-1 ch-number="149" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney9/mono.m3u8
+
+#EXTINF:-1 ch-number="150" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney10/mono.m3u8
+
+#EXTINF:-1 ch-number="151" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney11/mono.m3u8
+
+#EXTINF:-1 ch-number="152" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney12/mono.m3u8
+
+#EXTINF:-1 ch-number="153" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney13/mono.m3u8
+
+#EXTINF:-1 ch-number="154" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney14/mono.m3u8
+
+#EXTINF:-1 ch-number="155" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney15/mono.m3u8
+
+#EXTINF:-1 ch-number="156" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (16)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney16/mono.m3u8
+
+#EXTINF:-1 ch-number="157" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (17)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney17/mono.m3u8
+
+#EXTINF:-1 ch-number="158" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (18)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney18/mono.m3u8
+
+#EXTINF:-1 ch-number="159" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="Deportes", ESPN en Disney Plus (19)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://aw1wcm92zq.fubohd.com:443/disney19/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="youtube", ythls-v3.onrender
