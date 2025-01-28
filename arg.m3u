@@ -1505,6 +1505,9 @@ https://online.coopmorteros.coop/radiourbana/canal01.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8HuW1mRMf71Ap76zVOyyH1BEEys8P2_cc2fr4f-Er5RU5wrHqtTw0ieWobhL0bcRGA=w240-h480" group-title="CORDOBA", Radio La Porfiada Salsacate
 https://inliveserver.com:1936/12062/12062/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://fmmitierra.com.ar/wp-content/uploads/2024/04/FM-MI-TIERRA-logo-chico.png" group-title="CORDOBA", FM Mi Tierra 101.1 FM Rio Tercero
+https://stream.trixserver.com:3604/live/uv110live.m3u8
+
 
 
 
