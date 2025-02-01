@@ -1970,6 +1970,9 @@ https://fl1002.bozztv.com/ssh101/canaldonnatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TELE%20N.png" group-title="MISIONES", TELE N
 https://videostream.shockmedia.com.ar:19360/tlnhd/tlnhd.m3u8 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7r6lNlpZYn84DqFM8tP6GikbULUnbabY2fqPAe5O4_OxUGSpe47Db7TKUIlG7m9nUx9RN0Ij862vSruubwqM4KKDlNmG2Ot3mBLEx5l3prELgKlHmKr6vqj1IJYUVniCU5vooaPoAvg4o3-eDTbsuDhjd26X6O50ibKUpy1Rt6Xu88hkyq0EsECi8Xw/s200-rw/474839416_2262907104096263_8490076340916645795_n-removebg-preview.png" group-title="MISIONES", TELEPOSADAS
+https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
+
 #EXTINF:-1 tvg-logo="https://oberainside.com.ar/wp-content/uploads/2023/01/Identidad.png" group-title="MISIONES", OBERA INSIDE
 https://g5.mc-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
 
