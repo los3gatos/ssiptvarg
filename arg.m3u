@@ -1850,6 +1850,9 @@ https://cs1.xcast.com.br/7214/7214/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JBx_vll8WvdTTDiq-MvvZWMQ0Ky4DcbIq5iM4CwM95RSKpQBc-krcwQJzmvJGVfAZQ=w526-h296-rw" group-title="MENDOZA", MALBEC PLAY TV
 https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.radiopost.fm/files/image/206/206384/67474f4a0caa7.png" group-title="MENDOZA", RADIO POST 92.1 FM MENDOZA
+https://inliveserver.com:1936/12078/12078/playlist.m3u8
+
 
 
 
