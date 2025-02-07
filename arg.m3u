@@ -1624,7 +1624,7 @@ https://panel.host-live.com/8168/8168.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Zm0uYnJhc2lsZXJhX3NjcmVlbl8wXzE1OTEwNjA4MzFfMDkw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENTRE RIOS", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
 https://cs1.xcast.com.br/7662/7662/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pk5swcxrnuk2.png" group-title="ENTRE RIOS", ORO VERDE FM 104.5
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pk5swcxrnuk2.png" group-title="ENTRE RIOS", ORO VERDE FM 104.5  
 https://cs1.xcast.com.br/8488/8488/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/retro-fm-ar.png?itok=1rm4O3Ma" group-title="ENTRE RIOS", FM Retro TV 106.7
