@@ -1549,6 +1549,9 @@ https://stream.t5satelital.blog/hls/t5satelital.m3u8
 #EXTINF:-1 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="CORRIENTES", EL FOLKLORICO
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSp8dzUU2dG_DdZJblUl8ypI-U0Njq8x9hw&s" group-title="CORRIENTES", ACV MONTE CASEROS
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/streamavc/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.yapeyucablecolor.com.ar/img/BANNER.png" group-title="CORRIENTES", Yapeyu Cable color
 https://videohd.live:19360/8094/8094.m3u8
 
