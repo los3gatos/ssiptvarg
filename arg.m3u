@@ -779,14 +779,14 @@ http://138.59.227.7:45888/play/a05z/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/973/88/png-transparent-art-film-reel-cinema-movie-logo-s-film-clapperboard-reel.png" group-title="CINE", CINE
-https://inliveserver.com:1936/8078/8078/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1653__Cine_Classic.png" group-title="CINE", +Cine Classic
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/973/88/png-transparent-art-film-reel-cinema-movie-logo-s-film-clapperboard-reel.png" group-title="CINE", CINE 2
-https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE", +Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/973/88/png-transparent-art-film-reel-cinema-movie-logo-s-film-clapperboard-reel.png" group-title="CINE", CINE 3
-https://glb.bozztv.com/glb/ssh101/cinestarteve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.pngg" group-title="CINE", Terror TV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8?WebM3UCL
 
 #EXTINF:-1 channel-id="pluto-63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" tvg-chno="104" group-title="SERIES" , CSI: Miami
 https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -2533,6 +2533,12 @@ https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/4a15cf6d76aaf3246f3a6cedd48e0ac9.png" group-title="ANIME - TEEN", Energeek Radio TV
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="ANIME - TEEN", Energeek FAN TV
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="ANIME - TEEN", Energeek Retro TV
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1619_Opinionsur_Ninos.png" group-title="INFANTIL", Opinionsur Niños
 https://fl1002.bozztv.com/ssh101/opinionsurn/tracks-v1a1/mono.m3u8?WebM3UCL
