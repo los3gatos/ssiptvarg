@@ -2531,7 +2531,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="INFANTIL", Latino Kids TV 
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/EG%20RADIO%20PFP.png?itok=7-s1Wt77" group-title="ANIME - TEEN", Energeek Radio TV
+#EXTINF:-1 tvg-logo="https://i.paste.pics/4a15cf6d76aaf3246f3a6cedd48e0ac9.png" group-title="ANIME - TEEN", Energeek Radio TV
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1619_Opinionsur_Ninos.png" group-title="INFANTIL", Opinionsur Niños
@@ -2540,11 +2540,8 @@ https://fl1002.bozztv.com/ssh101/opinionsurn/tracks-v1a1/mono.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/logos-tv.png" group-title="INFANTIL", LOGOS TV KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w1199347001.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1335_VariedTV.png" group-title="ANIME - TEEN", VARIED TV
-https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-chno="4130" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20230412T042445SQUARE.png_20230412042445.png" group-title="ANIME - TEEN" , Teen Vee
-https://amg02051-soulpublishing-amg02051c6-samsung-es-267.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveespanish-samsunges/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
+#EXTINF:-1 tvg-logo="https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8" group-title="ANIME - TEEN", VARIED TV
+https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/800px-Logotipo_Color_2_NTV%28Chile%29.svg.png" group-title="INFANTIL", NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
@@ -2552,7 +2549,7 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://video-images.vice.com/articles/5bbf5690dc934f000621fc4e/lede/1539266929600-LocomotionGrande.jpeg?crop=0.8888xw:0.9984xh;0.06xw,0.0016xh&resize=500:*" group-title="ANIME - TEEN", locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://kanade.cl/public/assets/img/CO_COLOR-BLACK@4x.png" group-title="ANIME - TEEN", KANADE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5xKxTMVPs7wMxCv1BjkVSAJBTHP4LqnQREw&s" group-title="ANIME - TEEN", KANADE
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2477-294x165-FFFFFF.jpg" group-title="INFANTIL", DIOS TV VE KIDS
