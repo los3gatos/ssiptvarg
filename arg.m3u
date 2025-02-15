@@ -211,6 +211,9 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="NACIONALES", TEC TV
 http://190.11.130.46/mnp/tecnopolis/output.mpd
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/KZO-Entertainment-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="NACIONALES", KZO
+https://dsr.ride.com.ar/tvmia/an19/playlist.m3u8
+
 
 
 
