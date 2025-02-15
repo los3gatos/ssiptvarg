@@ -81,10 +81,6 @@ https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an19/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10
-https://dsr.ride.com.ar/tvmia/an20/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", ESPN
 https://dsr.ride.com.ar/tvmia/an21/playlist.m3u8
 
@@ -112,7 +108,7 @@ https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", PANAMERICANA
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", AMERICA PERU
 https://dsr.ride.com.ar/tvmia/an29/playlist.m3u8
 
 
@@ -123,82 +119,78 @@ https://dsr.ride.com.ar/tvmia/an30/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 1
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", LATINA
 https://dsr.ride.com.ar/tvmia/an31/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 2
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", TNT SPORTS
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", PANAMERICANA
 https://dsr.ride.com.ar/tvmia/an33/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 4
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", PERU MAGICO
 https://dsr.ride.com.ar/tvmia/an34/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 5
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", GOL PERU
 https://dsr.ride.com.ar/tvmia/an35/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 6
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", TV PERU
 https://dsr.ride.com.ar/tvmia/an36/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", A24
 https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 8
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", CANAL N
 https://dsr.ride.com.ar/tvmia/an38/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 9
-https://dsr.ride.com.ar/tvmia/an39/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", WOBI
 https://dsr.ride.com.ar/tvmia/an40/playlist.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 1
-https://dsr.ride.com.ar/tvmia/an01/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an41/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 2
-https://dsr.ride.com.ar/tvmia/an02/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
-https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 4
-https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an44/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 5
-https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an45/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 6
-https://dsr.ride.com.ar/tvmia/an06/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an46/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7
-https://dsr.ride.com.ar/tvmia/an07/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an47/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 8
-https://dsr.ride.com.ar/tvmia/an08/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an48/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 9
-https://dsr.ride.com.ar/tvmia/an09/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an49/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10
-https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
+https://dsr.ride.com.ar/tvmia/an50/playlist.m3u8
 
 
 
