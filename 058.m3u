@@ -12,6 +12,49 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 1
+https://dsr.ride.com.ar/tvmia/an01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 2
+https://dsr.ride.com.ar/tvmia/an02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
+https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 4
+https://dsr.ride.com.ar/tvmia/an04/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 5
+https://dsr.ride.com.ar/tvmia/an05/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 6
+https://dsr.ride.com.ar/tvmia/an06/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7
+https://dsr.ride.com.ar/tvmia/an07/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 8
+https://dsr.ride.com.ar/tvmia/an08/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 9
+https://dsr.ride.com.ar/tvmia/an09/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10
+https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
+
+
+
+
 #EXTINF:-1,ARG: 13Max Television
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/301307
 #EXTINF:-1,ARG: 24/7 Canal de Noticias
