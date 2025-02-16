@@ -928,7 +928,7 @@ https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
 #EXTINF:-1 tvg-logo="https://perfectospekadores.com.ar/images/foto/6744c68a67c9f.webp" group-title="AMBA", Perfectos Pekadores
-https://stmv5.livecastv.com/perfectospekadores/perfectospekadores/1.m3u8
+https://stmv5.livecastv.com/perfectospekadores/perfectospekadores/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDpW9-oUrhcoA6jqYdCOGpdLNum_mYsRuthvidnxWkbNw2s0Mnq4NNxawzhPH6eQ8jSo&usqp=CAU" group-title="AMBA", DITI TV
 https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
@@ -1156,6 +1156,9 @@ https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="PCIA BS AS", CELTV CANAL 2 TORNQUIST
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_W7HXpQEYWXITAV7pYntsHnia-0AYn_qiIAQp48_i3w=s900-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", ECO TV TANDIL
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 MAR DEL PLATA
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
