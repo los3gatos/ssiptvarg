@@ -2239,6 +2239,10 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYg69MJEVYNIc1_LNL_DMPbOF6cf4aBWVZdv_hu=s176-c-k-c0x00ffffff-no-rj" group-title="SANTIAGO DEL ESTERO", RDM SANTIAGO DEL ESTERO
 https://videostream.shockmedia.com.ar:19360/rdmtv/rdmtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBUsKPGn1ShncSMoaqCGY7OSRgddRltb1gg&s" group-title="SANTIAGO DEL ESTERO", LIVING TV
+https://videostream.shockmedia.com.ar:19360/lcproducciones/lcproducciones.m3u8
+
+
 
 
 
