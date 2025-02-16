@@ -2359,12 +2359,13 @@ https://clientestv.bachistreaming.com:3721/multi_web/play.m3u8
 https://fl1004.bozztv.com/ssh101/zoytvturcas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV PLUS
 https://fl1004.bozztv.com/ssh101/zoytv/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV FAMILIA
-https://fl1004.bozztv.com/ssh101/zoytvfamily/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV KIDS
-https://fl1004.bozztv.com/ssh101/zoytvkids/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV PITUFOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5444
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV MUSIC
+
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV BOLIVIA
+
+#EXTINF:-1 tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png" group-title="ZOY TV BOLIVIA", ZOY TV SPORTS
 
 
 
