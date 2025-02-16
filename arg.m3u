@@ -1262,7 +1262,7 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m
 #EXTINF:-1 tvg-logo="https://radio-tvvalleviejo.com/wp-content/uploads/2024/07/MOSCA-Radio-Tv-Valle-Viejo_-e1722129329959.png" group-title="CATAMARCA", RADIO VALLE VIEJO 104.1 FM CATAMARCA
 https://stmvideo1.livecastv.com/valleviejo/valleviejo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/RPH_beUtDGmI6kKxPlh37nyjWk-ovJivplSRGTrI6ZMJX3DITW1YZttFsgOagR5Wvi1hFa6ccA=s900-c-k-c0x00ffffff-no-rj" group-title="CATAMARCA", INFORAMA RADIO CATAMARCA
+#EXTINF:-1 tvg-logo="https://inforama.com.ar/wp-content/uploads/2022/05/LOGO_FONDO-VERDE-CLARO-1000X1000-01-01.png" group-title="CATAMARCA", INFORAMA RADIO CATAMARCA
 https://streamlov.alsolnet.com/inforamaradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ltocatamarca.github.io/Logo/LTO%201%20Foto%20Portada-1.png" group-title="CATAMARCA", LTO CATAMARCA
