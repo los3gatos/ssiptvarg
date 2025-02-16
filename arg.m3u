@@ -2563,6 +2563,9 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5xKxTMVPs7wMxCv1BjkVSAJBTHP4LqnQREw&s" group-title="ANIME - TEEN", KANADE
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgI6CS3s1PibPhTyujR6-0_Gha7dOBcxRvQ&s" group-title="ANIME - TEEN", JETIX TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/jetix/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2477-294x165-FFFFFF.jpg" group-title="INFANTIL", DIOS TV VE KIDS
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 
