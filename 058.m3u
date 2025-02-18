@@ -1,4 +1,8 @@
 #EXTM3U    
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xqIG8qzU99cJ-OPn1rQDw9q-sGiXq9psBA&s" group-title="CORDOBA", SINTONIA
+
+https://stream-cdn-iad2.vaughnsoft.net/play/live_sintonia.flv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xqIG8qzU99cJ-OPn1rQDw9q-sGiXq9psBA&s" group-title="NACIONALES", EVENTO EN VIVO
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/granhermano/playlist.m3u8
 
