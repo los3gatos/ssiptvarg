@@ -122,13 +122,6 @@ https://dsr.ride.com.ar/tvmia/an17/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="NACIONALES" , BRAVO TV
 https://dsr.ride.com.ar/tvmia/an42/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" group-title="NACIONALES", ASPEN 102.3
-https://dsr.ride.com.ar/tvmia/an67/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5xqIG8qzU99cJ-OPn1rQDw9q-sGiXq9psBA&s" group-title="NACIONALES", EVENTO EN VIVO
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/granhermano/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
 http://181.209.95.29:8000/play/a01m/index.m3u8
 
@@ -213,6 +206,15 @@ http://190.11.130.46/mnp/tecnopolis/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/KZO-Entertainment-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="NACIONALES", KZO
 https://dsr.ride.com.ar/tvmia/an19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" group-title="NACIONALES", ASPEN 102.3
+https://dsr.ride.com.ar/tvmia/an67/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="NACIONALES", LA 100
+https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="NACIONALES", LATINA RADIO FM 101.1
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 
 
