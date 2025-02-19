@@ -1433,6 +1433,9 @@ https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1542_Televideo.png" group-title="CORDOBA", Televideo 
 https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7bi81teO387yuwPH07zpr8mit2g4rruAol4pVp8l_kGYutVHeD_HLQUqbY57YvLcDolwJZfI450TkB-9lT8KCFP1CulOz71cbtc1HY4PziCdeageSHUOHEW-aXgTYxNk4dT_wNNXKFUF6YbJsCmFaBrTSiazuaFoTX68uX0Z_IOd0dBu-vVqKoydqq_I/s200-rw/N24TV-removebg-preview.png" group-title="CORDOBA", N24 TV
+https://videostream.shockmedia.com.ar:19360/n24tv/n24tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixG7m_ziEoQcR1BpIejvElegTT9_RSpo1m7NEaKwUCBlxD6xVU830PBkfzVzFlnFGwrtW1-yXNRFXHct9AVM3TmbzNQPwT45tJy5NQNTJ4TMpweQRhs2WtBzNTtfqPwlart3bIjfyu1QPKfrfjyT3gcs6n7W1LvABpTr6B1RCDYVbV9EGGZ8FzT4YG/s200/350719171_615710037162403_7392052004032939509_n.png" group-title="CORDOBA", Dannce TV
 https://stmvideo3.livecastv.com/dannceteve/dannceteve/playlist.m3u8
 
