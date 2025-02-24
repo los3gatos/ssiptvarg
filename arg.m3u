@@ -275,104 +275,167 @@ http://45.230.38.117:8000/play/a02n
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 2 AR SD  ►℗
-http://home-playtv.com:8080/yahir/PWUMB/518964
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 3 FHD NORTE
-http://home-playtv.com:8080/yahir/PWUMB/40735
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 2 FHD NORTE
-http://home-playtv.com:8080/yahir/PWUMB/185149
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 5
-http://home-playtv.com:8080/yahir/PWUMB/272499
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", FOX Sports 2 FHD NORTE
-http://home-playtv.com:8080/yahir/PWUMB/186573
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", FOX Sports 2 SUR FHD ►℗
-http://home-playtv.com:8080/yahir/PWUMB/186606
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", FOX Sports 3 FHD NORTE
-http://home-playtv.com:8080/yahir/PWUMB/93563
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", FOX Sports 3 SUR FHD
-http://home-playtv.com:8080/yahir/PWUMB/36389
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 4 FHD NORTE
-http://home-playtv.com:8080/yahir/PWUMB/224430
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", FOX Sports 1 SUR  FHD
-http://home-playtv.com:8080/yahir/PWUMB/36387
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", TyC Sport  FHD
-http://home-playtv.com:8080/yahir/PWUMB/19461
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", FOX Sports 2 SD SUR
-http://home-playtv.com:8080/yahir/PWUMB/185155
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", TyC Sport SD
-http://home-playtv.com:8080/yahir/PWUMB/21222
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", FOX Sports 1 SUR SD
-http://home-playtv.com:8080/yahir/PWUMB/518961
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 3 FHD SUR
-http://home-playtv.com:8080/yahir/PWUMB/518962
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN Deportes HD
-http://home-playtv.com:8080/yahir/PWUMB/54533
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", TNT Sports FHD
-http://home-playtv.com:8080/yahir/PWUMB/224369
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", Bein Sports XTRA Ñ
-http://home-playtv.com:8080/yahir/PWUMB/259731
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 1 SUR FHD
-http://home-playtv.com:8080/yahir/PWUMB/439752
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 1 AR FHD.
-http://home-playtv.com:8080/yahir/PWUMB/439754
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN Extra 4 ARG FHD
-http://home-playtv.com:8080/yahir/PWUMB/439755
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 2 FHD SUR
-http://home-playtv.com:8080/yahir/PWUMB/439757
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 6
-http://home-playtv.com:8080/yahir/PWUMB/439771
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 2 SD SUR .
-http://home-playtv.com:8080/yahir/PWUMB/439772
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 1 SD COL
-http://home-playtv.com:8080/yahir/PWUMB/439774
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 1 SD CH
-http://home-playtv.com:8080/yahir/PWUMB/439775
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 4 SD
-http://home-playtv.com:8080/yahir/PWUMB/439801
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 2 SD
-http://home-playtv.com:8080/yahir/PWUMB/439802
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", FOX Sports 2 SD
-http://home-playtv.com:8080/yahir/PWUMB/439803
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN Extra HD SUR
-http://home-playtv.com:8080/yahir/PWUMB/454717
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", FOX Sports 1 MEX
-http://home-playtv.com:8080/yahir/PWUMB/19632
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", TYC Sports HD
-http://home-playtv.com:8080/yahir/PWUMB/454718
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 1 ARG HD
-http://home-playtv.com:8080/yahir/PWUMB/454719
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 2 BR
-http://home-playtv.com:8080/yahir/PWUMB/456549
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", Premiere 2
-http://home-playtv.com:8080/yahir/PWUMB/456656
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", DirecTV Sports 2 FHD ⭐️
-http://home-playtv.com:8080/yahir/PWUMB/456658
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", DirecTV Sports SD ⭐️
-http://home-playtv.com:8080/yahir/PWUMB/456659
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", DirecTV Sports HD COL
-http://home-playtv.com:8080/yahir/PWUMB/456660
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", Canal Claro HD
-http://home-playtv.com:8080/yahir/PWUMB/469051
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", Claro Sports 1 HD
-http://home-playtv.com:8080/yahir/PWUMB/469052
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", Claro Sports 2 HD
-http://home-playtv.com:8080/yahir/PWUMB/469053
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", ESPN 1 HD COL
-http://home-playtv.com:8080/yahir/PWUMB/519821
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", FOX Sports 1  AR
-http://home-playtv.com:8080/yahir/PWUMB/158518
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", DirecTV Sports HD ARG
-http://home-playtv.com:8080/yahir/PWUMB/310509
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", DirecTV Sports 1 SD ECU
-http://home-playtv.com:8080/yahir/PWUMB/310516
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", Real Madrid TV HD
-http://home-playtv.com:8080/yahir/PWUMB/310523
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", DirecTV Sports HD ARG
-http://home-playtv.com:8080/yahir/PWUMB/310533
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", DirecTV Sports + SD
-http://home-playtv.com:8080/yahir/PWUMB/310535
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGPgbwnUcGIBJB8T2FEf2AG2_5VZBGaGqRPQ&s"  group-title="DEPORTIVOS", DirecTV Sports HD ECU
-http://home-playtv.com:8080/yahir/PWUMB/310536
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | DIRECTV SPORTS HD (ARG)
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145400
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | DIRECTV SPORTS HD (COL)
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145401
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | DIRECTV SPORTS 2 HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145402
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | DIRECTV SPORTS + HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145403
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", COL: DIRECTV SPORTS ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145404
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | BEIN SPORTS XTRA Ñ 
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145406
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", COL: FOX SPORTS 2 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145407
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", COL: FOX SPORTS 3 ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145409
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | BEIN SPORTS Ñ UHD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145408
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN DEPORTES
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145416
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN PREMIUM HD ARG
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145417
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN 2 HD ARG
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145418
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN 3 HD ARG
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145419
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN 4 HD (LATAM)
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145420
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN PREMIUM HD 
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145421
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN HD CHILE 
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145422
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN HD COLOMBIA
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145423
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN 2 HD COLOMBIA
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145424
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN 2 MX HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145425
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN 3 MX HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145426
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN 4 HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145427
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ESPN EXTRA
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145428
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | FOX SPORTS DEPORTES 
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145429
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | FOX SPORTS DEPORTES HD ARG
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145430
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | FOX SPORTS 2 HD ARG
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145431
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | FOX SPORTS 3 HD ARG
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145432
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | FOX SPORT 2 HD MX
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145433
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | FOX SPORTS 3 HD MX
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145434
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | FOX SPORTS FHD MX 
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145435
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | FORMULA 1 FHD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145436
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | SKY SPORTS LA LIGA HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145437
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | SKY SPORTS PREMIER LEAGUE FHD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145438
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | FOX SPORTS PREMIUM* 
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145439
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TYC SPORTS HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145440
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TYC SPORTS INTERNACIONAL
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145441
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TNT SPORTS ARGENTINA HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145442
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TNT SPORTS  CHILE
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145443
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | CANAL DEL FUTBOL (EC) FHD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145444
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | GOL TV HD 
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145445
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | GOLTV ECUADOR HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145446
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | GOLTV USA ʜᴅ
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145447
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | WIN SPORTS
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145448
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | WIN SPORTS +
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145449
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | GOL PERU HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145450
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | MOVISTAR DEPORTES PERÚ
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145451
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | VTV UY
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145452
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | VTV + UY
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145453
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | SPORTTV 1 HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145454
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | SPORTTV 2 HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145455
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | SPORTTV 3 HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145456
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | SPORTTV  +4 HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145457
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TUDN MX UHD 
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145458
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TUDN XTRA #1
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145459
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TUDN XTRA #2
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145460
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TUDN XTRA #3
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145461
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TUDN XTRA #4
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145462
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TIGO SPORTS HONDURAS HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145463
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | DEPORTV HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145464
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TD+
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145465
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TD+ 2
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145466
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TVG
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145467
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TVG 2
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145468
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ADRENALINA SPORTS NETWORK MX UHD®
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145469
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TENNIS CHANNEL 
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145470
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ZONA FUTBOL UHD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145471
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | REAL MADRID
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145472
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | EUROSPORTS UHD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145473
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | ITV Deportes MX
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145474
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | SPORT TV | 1 UHD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145475
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | SPORT TV | 2 UHD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145476
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | Yes Network HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145477
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | MSG 
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145478
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | UFC TV HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145479
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | UFC NETWORK HD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145480
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | UFC Fight Pass
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145481
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | WWE NETWORK
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145482
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | RED BULL TV
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145483
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | TORO OLE FHD
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145484
+#EXTINF:-1 tvg-logo=""  group-title="DEPORTIVOS", Sports | SKY SPORTS
+http://magmas5.com:8000/AdolfoMoralesNic/039MMxcm290/145486
+
+
+
 
 
 
