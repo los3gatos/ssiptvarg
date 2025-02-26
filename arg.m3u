@@ -943,7 +943,7 @@ https://xhateaec.com:8800/hls/visitor/visitor/12863a70457cecf65bd7418d858f55c2/i
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", VORTERIX - 92.1 FM
+#EXTINF:-1 tvg-logo="https://www.vorterix.com/images/logo_vorterix-horizontal.svg" group-title="RADIO-AMBA", VORTERIX - 92.1 FM
 https://g4.mc-hor.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/m3qMf_dlSacY3FiPC_qvonCxCNxncmuZAeZhf3W7bEwjUJpYDOfmjXuUhI2-xZ_6u4U" group-title="RADIO-AMBA", RADIO FMQ QUILMES
@@ -973,10 +973,10 @@ https://streamlov.alsolnet.com/okfm/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="RADIO-AMBA", FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
 https://s8.stweb.tv/unlam/video2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.fmradiociudad.com/layout/arriba2024.jpg" group-title="RADIO-AMBA", RADIO CIUDAD 91.1 FM MERLO
+#EXTINF:-1 tvg-logo="http://www.fmradiociudad.com/layout/arriba2025.jpg" group-title="RADIO-AMBA", RADIO CIUDAD 91.1 FM MERLO
 https://vivo.solumedia.com:19360/radiociudad/radiociudad.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UEnwp3C0OUnb69u7MIl86OVtQvJ2AAtPeqfkx-aC7hDlHgWxp9BkVhflQAwX6ffGGv9bwtxx=s160-c-k-c0x00ffffff-no-rj" group-title="RADIO-AMBA", A91 FM 90.9 ANTENA 91 LOMAS DE ZAMORA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuhex2Yx333jnvxTUhDCD9cmPgyyEG2g9wQ&s" group-title="RADIO-AMBA", A91 FM 90.9 ANTENA 91 LOMAS DE ZAMORA
 https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="RADIO-AMBA", CADENA 1470 AM LANUS
