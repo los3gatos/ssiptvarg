@@ -952,8 +952,8 @@ https://g2.mc-hor.transport.edge-access.net/b08/ngrp:cronica_fmq-100044_all/cron
 #EXTINF:-1 tvg-logo="https://murktv.com.ar/wp-content/uploads/2024/09/logo-rk-blanco-250x250.jpg" group-title="RADIO-AMBA", MURKTV QUILMES
 https://videostream.shockmedia.com.ar:19360/murktv/murktv.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/A12ZTP1poAm-r0MSEWCa7r3majA6OuUHKvSHZdaCbiMGccwPQRp2qc_J5lXWPj9drKeZ=s180" group-title="RADIO-AMBA", LA 1130 AM SANTIAGO Y COPLA - G LAFERRERE
-https://panel.host-live.com/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.santiagoycopla.com.ar/assets/images/logo-trans-107x107.png" group-title="RADIO-AMBA", LA 1130 AM SANTIAGO Y COPLA - G LAFERRERE
+https://panel.host-live.com:19360/santiagoycopla/santiagoycopla.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2021/01/logo_jai_celeste-1.png" group-title="RADIO-AMBA", 96.3 RADIO JAI
 https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
@@ -976,26 +976,23 @@ https://s8.stweb.tv/unlam/video2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.fmradiociudad.com/layout/arriba2025.jpg" group-title="RADIO-AMBA", RADIO CIUDAD 91.1 FM MERLO
 https://vivo.solumedia.com:19360/radiociudad/radiociudad.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuhex2Yx333jnvxTUhDCD9cmPgyyEG2g9wQ&s" group-title="RADIO-AMBA", A91 FM 90.9 ANTENA 91 LOMAS DE ZAMORA
-https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="RADIO-AMBA", CADENA 1470 AM LANUS
 https://stmvideo1.livecastv.com/am1470/am1470/chunklist_w162601086.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.galactica.com.ar/assets/images/697027-ico-256x256.webp" group-title="RADIO-AMBA", RADIO GALACTICA
+https://stream.trixserver.com:3733/live/uv005live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.templefm.com.ar/img/PORTADA2.jpg" group-title="RADIO-AMBA", TEMPLE FM 93.3 HAEDO
 https://videohd.live:19360/8124/8124.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.koaradio.net/index_htm_files/4.jpg" group-title="RADIO-AMBA", RADIO KOA RAFAEL CASTILLO
-https://panel.host-live.com/8028/8028/playlist.m3u8
+https://panel.host-live.com:19360/koatv/koatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1267_Sonido_Sur.png" group-title="RADIO-AMBA", SONIDO SUR
 https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/a3ab912fa9960e91a32d82029b6f445e.png" group-title="RADIO-AMBA", DEMOS RADIO VISUAL VICENTE LOPEZ
 https://videostream.shockmedia.com.ar:19360/demosvisual/demosvisual.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.galactica.com.ar/assets/images/697027-ico-256x256.webp" group-title="RADIO-AMBA", RADIO GALACTICA
-https://stream.trixserver.com:3733/live/uv005live.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO-AMBA", RADIO ROCHA AM 1570 LA PLATA
 https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
