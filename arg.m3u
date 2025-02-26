@@ -894,7 +894,7 @@ https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.freepik.com/vector-gratis/inspiracion-diseno-logotipo-microfono_57043-231.jpg" group-title="AMBA", DEJANDO HUELLAS
 https://inliveserver.com:1936/9014/9014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://siontv.com.ar/wp-content/uploads/2023/11/logo-sion1.png" group-title="AMBA", SION TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRODIbru9p7WEmGxRJ6HXR_kHlxxFgaDSyfOQ&s" group-title="AMBA", SION TV
 https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/enlace.png" group-title="AMBA", ENLACE
