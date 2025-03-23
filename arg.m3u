@@ -1063,6 +1063,9 @@ https://elsellotv.com.ar:8443/hls/elsello_low.m3u8
 #EXTINF:-1 tvg-logo="https://telejunin.com/static/images/logo/teleJunin.png" group-title="PCIA BS AS", TeleJunin
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZzyhYcKJ_HJMfj839pObfH3Th3ux54tD_BM2VrY3inP8FbcqaPRXc-HjMORn15LrMfs=w600-h300-pc0xffffff-pd" group-title="PCIA BS AS", CANAL 15 DE CAMPANA
+https://play.nexolife.com/canal15/d00176a72283b80d5c8fd05a62c3cbf1.sdp/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="PCIA BS AS", SPTV Digital
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 
