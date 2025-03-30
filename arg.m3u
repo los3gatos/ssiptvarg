@@ -1965,7 +1965,6 @@ https://videostream.shockmedia.com.ar:19360/fmlatina925/fmlatina925.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="SAN JUAN", CANAL 8 SAN JUAN 
 https://g1.proy-slo.transport.edge-access.net/a09/ngrp:canal8sanjuan-100056_all/canal8sanjuan-100056_720p.m3u8
 
@@ -2155,6 +2154,9 @@ https://canal3tacural.site:4443/hls/canal3_hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Fe-C5SF-en-vivo-Online.png" group-title="SANTA FE", C5SF SANTA FE
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://margaritaweb.com.ar/wp-content/uploads/2024/10/logoGCvNg1V6j.png" group-title="SANTA FE", Canal 2DOS Margarita
+https://cs1.xcast.com.br/7584/7584/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sol915.com.ar/wp-content/uploads/2021/12/logosolplay-x1-mobile-22.png" group-title="SANTA FE", SOL 91.5 SANTA FE    
 https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
