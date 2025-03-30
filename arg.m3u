@@ -1794,7 +1794,7 @@ https://iptv.ixfo.com.ar:30443/live/Canal35TV/playlist.m3u8
 https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/707937991654768640/H_thUBiX_400x400.jpg" group-title="MISIONES", CVI CANAL 5 Iguazu
-https://panel.host-live.com/8078/8078/playlist.m3u8
+https://panel.host-live.com:19360/8078/8078.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=254x10000:format=jpg/path/sdc3404aa05b6ec66/image/id1a56b866cde1b6d/version/1668709855/image.jpg" group-title="MISIONES", TV DONNA DIGITAL
 https://live.enhdtv.com:8081/donnatvdigital/index.m3u8
