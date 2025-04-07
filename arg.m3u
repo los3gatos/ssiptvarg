@@ -2174,7 +2174,7 @@ https://inliveserver.com:1936/12060/12060/playlist.m3u8
 https://tv.streamcasthd.com:3215/live/radiorafaelalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiowox.com.ar/wp-content/uploads/2022/01/logo2.png" group-title="SANTA FE", WOX ROSARIO 88.3 FM
-https://tv.streamcasthd.com:3135/live/woxtvlive.m3u8
+https://vivo.solumedia.com:19360/woxfm/woxfm.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rosarioclasica.com/images/logo.png" group-title="SANTA FE", Radio Rosario Clásica 90.7 fm
 https://inliveserver.com:1936/9012/9012/playlist.m3u8
@@ -2203,7 +2203,14 @@ https://inliveserver.com:1936/12038/12038/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LT9.png" group-title="SANTA FE", LT9 Brigadier Lopez 1150 AM Santa Fe
 https://inliveserver.com:1936/12060/12060/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI713.png" group-title="SANTA FE", Zona 101.7 FM  Villa Constitución
+https://streamyes.alsolnet.com/fmzonatv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIES1005.png" group-title="SANTA FE", Estudio Net 100.5 FM Casilda
+https://vivo.solumedia.com:19360/radioestudionet/radioestudionet.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILIDERB.png" group-title="SANTA FE", Lider 90.7 FM Bigand 
+https://tv.streamcasthd.com:3136/live/fmradioliderlive.m3u8
 
 
 
