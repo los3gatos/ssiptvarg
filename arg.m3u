@@ -2260,7 +2260,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://lavozdetucuman.com/envivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FDv1HkrWUAMAmQF?format=jpg&name=large" group-title="TUCUMAN", PANC TV
-https://panel.host-live.com:19360/81500/81500.m3u8
+https://panel.host-live.com:19360/20004/20004.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", PALOMAR TV
 https://ssh101.bozztv.com/ssh101/tvhd211/playlist.m3u8
