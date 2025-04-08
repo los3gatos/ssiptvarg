@@ -188,6 +188,9 @@ http://181.13.173.86:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="NACIONALES" , VOLVER
 http://181.13.173.86:8000/play/a021/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="NACIONALES" , AMC
+https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="NACIONALES" , CANAL A 
 http://181.13.173.86:8000/play/a09j/index.m3u8
 
