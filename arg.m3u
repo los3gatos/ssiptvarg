@@ -264,6 +264,9 @@ https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NOTICIAS NACIONALES", EL TRECE NOTICIERO 
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LR6.png" group-title="NOTICIAS NACIONALES", MITRE
+https://live-05-13-mitre.vodgc.net/live-05-13-mitre/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI710.png" group-title="NOTICIAS NACIONALES", EL OBSERVADOR
 https://cs1.xcast.com.br/7868/7868/playlist.m3u8
 
