@@ -118,9 +118,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV
 http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6831
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="NACIONALES" , BRAVO TV
-https://dsr.ride.com.ar/tvmia/an42/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
 http://181.209.95.29:8000/play/a01m/index.m3u8
 
@@ -205,9 +202,6 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="NACIONALES", TEC TV
 http://190.11.130.46/mnp/tecnopolis/output.mpd
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/KZO-Entertainment-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="NACIONALES", KZO
-https://dsr.ride.com.ar/tvmia/an19/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" group-title="NACIONALES", ASPEN 102.3
 https://dsr.ride.com.ar/tvmia/an67/playlist.m3u8
