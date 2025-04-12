@@ -834,7 +834,7 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="AMBA", FIVE TV  16.1
-https://panel.host-live.com/8118/8118/playlist.m3u8
+https://panel.host-live.com:19360/8118/8118.m3u8
 
 #EXTINF:-1 tvg-logo="https://realpolitik.com.ar/uploads/cliente/marca/20180801093720_realpolitik-logo.svg" group-title="AMBA", REALPOLITIK LA PLATA
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
