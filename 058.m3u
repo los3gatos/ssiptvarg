@@ -1,67 +1,31 @@
-# Grupo: → BOLIVIA ←
-#EXTINF:-1,T | BOLIVIA
-http://newultra.xyz:8080/nico1702/170223/69486
-#EXTINF:-1,T | BOLIVIA
-http://newultra.xyz:8080/nico1702/170223/69487
-#EXTINF:-1,T | BOLIVIA
-http://newultra.xyz:8080/nico1702/170223/69488
-#EXTINF:-1,BOL | TVU
-http://newultra.xyz:8080/nico1702/170223/69489
-#EXTINF:-1,BOL | XTO TV
-http://newultra.xyz:8080/nico1702/170223/69490
-#EXTINF:-1,BOL | BOLIVIA TV
-http://newultra.xyz:8080/nico1702/170223/69491
-#EXTINF:-1,BOL | PAT LA PAZ  (E)
-http://newultra.xyz:8080/nico1702/170223/69492
-#EXTINF:-1,BOL | RED UNO HD (*)
-http://newultra.xyz:8080/nico1702/170223/69493
-#EXTINF:-1,BOL | BOLIVISION HD
-http://newultra.xyz:8080/nico1702/170223/69494
-#EXTINF:-1,BOL | CADENA A
-http://newultra.xyz:8080/nico1702/170223/69495
-#EXTINF:-1,BOL | DEPORTES TV
-http://newultra.xyz:8080/nico1702/170223/69496
-#EXTINF:-1,BOL | ATB !
-http://newultra.xyz:8080/nico1702/170223/69497
-#EXTINF:-1,BOL | BOL L BOLIVIA UNO
-http://newultra.xyz:8080/nico1702/170223/69498
-#EXTINF:-1,BOL | BOLI L RED AVENIR INTERNACIONAL
-http://newultra.xyz:8080/nico1702/170223/69499
-#EXTINF:-1,BOL | RED UNO BOLIVIA STA. CRUZ
-http://newultra.xyz:8080/nico1702/170223/69500
-#EXTINF:-1,BOL | RED UNO BOLIVIA LA PAZ
-http://newultra.xyz:8080/nico1702/170223/69501
-#EXTINF:-1,BOL | RED UNO COCHABAMBA
-http://newultra.xyz:8080/nico1702/170223/69502
-#EXTINF:-1,BOL | GIGAVISION
-http://newultra.xyz:8080/nico1702/170223/69503
-#EXTINF:-1,Unitel central
-http://newultra.xyz:8080/nico1702/170223/69504
-#EXTINF:-1,Unitel La Paz
-http://newultra.xyz:8080/nico1702/170223/69505
-#EXTINF:-1,Contacto Bolivia
-http://newultra.xyz:8080/nico1702/170223/69506
-#EXTINF:-1,Abya Yala TV (bol)
-http://newultra.xyz:8080/nico1702/170223/69507
-#EXTINF:-1,ATB (bol)
-http://newultra.xyz:8080/nico1702/170223/69508
-#EXTINF:-1,Bolivia TV (bol)
-http://newultra.xyz:8080/nico1702/170223/69509
-#EXTINF:-1,Bolivia TV 7.1 (bol)
-http://newultra.xyz:8080/nico1702/170223/69510
-#EXTINF:-1,Bolivision (bol)
-http://newultra.xyz:8080/nico1702/170223/69511
-#EXTINF:-1,FTV (bol)
-http://newultra.xyz:8080/nico1702/170223/69512
-#EXTINF:-1,Red Uno (bol)
-http://newultra.xyz:8080/nico1702/170223/69513
-#EXTINF:-1,RTP (bol)
-http://newultra.xyz:8080/nico1702/170223/69514
-#EXTINF:-1,Unitel (bol)
-http://newultra.xyz:8080/nico1702/170223/69515
-#EXTINF:-1,Tigo Sport 2 | BOLIVIA
-http://newultra.xyz:8080/nico1702/170223/73384
-#EXTINF:-1,Tigo Sport 3 | BOLIVIA
-http://newultra.xyz:8080/nico1702/170223/73385
-#EXTINF:-1,Tigo Sport 1 | BOLIVIA
-http://newultra.xyz:8080/nico1702/170223/73383
+#EXTM3U
+#EXTINF:-1,26 TV
+http://186.0.248.113:8000/play/a0bp/index.m3u8
+#EXTINF:-1,A 24
+http://186.0.248.113:8000/play/a0bq/index.m3u8
+#EXTINF:-1,C5N
+http://186.0.248.113:8000/play/a0bn/index.m3u8
+#EXTINF:-1,CNN Esp
+http://186.0.248.113:8000/play/a0bf/index.m3u8
+#EXTINF:-1,Canal Rural
+http://186.0.248.113:8000/play/a0bi/index.m3u8
+#EXTINF:-1,Ciudad Magazine
+http://186.0.248.113:8000/play/a0br/index.m3u8
+#EXTINF:-1,Cronica TV
+http://186.0.248.113:8000/play/a0bo/index.m3u8
+#EXTINF:-1,DeporTV
+http://186.0.248.113:8000/play/a0be/index.m3u8
+#EXTINF:-1,Estrellas
+http://186.0.248.113:8000/play/a0bd/index.m3u8
+#EXTINF:-1,Film and Arts
+http://186.0.248.113:8000/play/a0bj/index.m3u8
+#EXTINF:-1,La Nacion HD
+http://186.0.248.113:8000/play/a0bm/index.m3u8
+#EXTINF:-1,Lifetime
+http://186.0.248.113:8000/play/a0bg/index.m3u8
+#EXTINF:-1,NET TV
+http://186.0.248.113:8000/play/a0bs/index.m3u8
+#EXTINF:-1,TLC
+http://186.0.248.113:8000/play/a0bh/index.m3u8
+#EXTINF:-1,TN
+http://186.0.248.113:8000/play/a0bl/index.m3u8
