@@ -1965,8 +1965,7 @@ https://panel.host-live.com:19360/8160/8160.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_%28Logo_2018%29.png" group-title="SAN JUAN", CANAL 8 SAN JUAN 
-https://g1.proy-slo.transport.edge-access.net/a09/ngrp:canal8sanjuan-100056_all/canal8sanjuan-100056_720p.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png" group-title="SAN JUAN", CANAL 4 SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
