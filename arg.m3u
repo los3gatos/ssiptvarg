@@ -1558,6 +1558,9 @@ https://videostream.shockmedia.com.ar:19360/genesiscaseros/genesiscaseros.m3u8
 #EXTINF:-1 tvg-logo="https://multimediosmariagrande.com/multim.png" group-title="ENTRE RIOS", MULTIMEDIO MARIA GRANDE
 https://panel.host-live.com/8168/8168.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://canaldelasaldeas.com.ar/wp-content/uploads/2022/09/cropped-logocanalaldeas5.jpeg" group-title="ENTRE RIOS", CANAL 8 ALDEA BRASILEÑA
+https://cs3.voxhd.com.br/11890/11890/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Zm0uYnJhc2lsZXJhX3NjcmVlbl8wXzE1OTEwNjA4MzFfMDkw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENTRE RIOS", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
 https://cs1.xcast.com.br/7662/7662/playlist.m3u8
 
