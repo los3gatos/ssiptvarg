@@ -201,7 +201,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://190.11.130.46/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="NACIONALES", TEC TV
-http://190.11.130.46/mnp/tecnopolis/output.mpd
+http://200.106.13.204:8000/play/a14r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="NACIONALES", LA 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
@@ -223,7 +223,7 @@ https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/v
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/IP_Noticias_%28Informaci%C3%B3n_Period%C3%ADstica%29_Logo.png/320px-IP_Noticias_%28Informaci%C3%B3n_Period%C3%ADstica%29_Logo.png" group-title="NOTICIAS NACIONALES", IP NOTICIAS
-http://190.11.130.46/mnp/ip/output.mpd 
+http://200.106.13.204:8000/play/a154/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26
 http://181.13.173.86:8000/play/a01r/index.m3u8
