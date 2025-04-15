@@ -2185,7 +2185,7 @@ https://tecnica.nuevomundotv.com.ar:446/hls/radiocasilda_480p1128kbs/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1367145670524751874/BdMfLDDi_400x400.jpg" group-title="SANTA FE", 1330 AM ROSARIO
 http://nd106.republicaservers.com/hls/mariatti/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" group-title="SANTA FE", MAS FM 95.9 SANTA FE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" group-title="SANTA FE", MAS FM 95.9 SANTA FE  
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Nn-cK0S7_4_pGQXM1SqbbDJfcHY0KtdKQrDxONaCjdZhkx_iMnNXT8RM3V5J9oCf2E8=w240-h480" group-title="SANTA FE", CADENA 2000 SAN GUILLERMO
