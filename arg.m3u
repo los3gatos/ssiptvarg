@@ -908,7 +908,8 @@ https://stmv6.voxtvhd.com.br/espaciofabrik/espaciofabrik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/432/ipersonica.f5bb4df2.png" group-title="AMBA",  IPERSONICA TV
 https://xhateaec.com:8800/hls/visitor/visitor/12863a70457cecf65bd7418d858f55c2/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKjx6Fjt4m-jxQ35q-d2KbWvceEz3QUXAP2HtyrzkbpEs44VaDPtec3ykNwz5ju3z5DZM&usqp=CAU" group-title="AMBA",  M21
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/m21puramusica/chunks.m3u8
 
 
 
