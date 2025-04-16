@@ -2283,7 +2283,7 @@ https://lavozdetucuman.com/envivo.m3u8
 https://panel.host-live.com:19360/20004/20004.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n9OhYzpvfe3TOqqksSWvjj5OnwlOpGK7NQShlZrDdVwS0=s900-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", PALOMAR TV
-https://ssh101.bozztv.com/ssh101/tvhd211/playlist.m3u8
+https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0Ac5Y1AdeH_YiOcQVLPNTLwkZeltURKPlLSIl9VKlDQ=s900-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", 7 NORTE TV
 https://ntvcanal7.ddns.net:81/dash/stream.mpd
@@ -2350,22 +2350,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV 1
-https://seo.tv.bo/tv/IpSEO-TV-1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV KIDS
-https://seo.tv.bo/tv/IpSEO-TV-2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV NOVELAS
-https://seo.tv.bo/tv/IpSEO-TV-3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV PELICULAS
-https://seo.tv.bo/tv/IpSEO-TV-4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV DEPORTES
-https://seo.tv.bo/tv/IpSEO-TV-5.1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV DEPORTES 2
-https://seo.tv.bo/tv/IpSEO-TV-5.2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV YUNGAS
-https://seo.tv.bo/tv/IpSEO-TV-7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/SeoTV.png" group-title="SEO TV BOLIVIA", SEO TV TROPICO
-https://seo.tv.bo/tv/IpSEO-TV-8.m3u8
 
 
 
