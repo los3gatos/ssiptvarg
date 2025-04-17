@@ -601,7 +601,7 @@ http://200.60.124.19:29000/play/a01p/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", France 24 ESPAÑOL
-http://200.26.177.54:8000/play/a0hu/index.m3u8
+http://200.106.13.204:8000/play/a05a/index.m3u8
  
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="NOTICIAS INTERNACIONAL", RT 
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -643,7 +643,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/playlist.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 
 #EXTINF:-1 tvg-id="NHK.TV" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , NHK World Japon
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ntvnews24/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , Nippon News TV Japon
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -664,7 +664,7 @@ http://45.5.116.178:8000/play/a00e/index.m3u8
 https://streamcdnc3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="NOTICIAS INTERNACIONAL", FOX NEWS
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8
+http://206.62.161.192:8000/play/a0g1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/57c240242b6d1a5c925fe521bb936a79a60d1fa5d2ec8e93ee7f5a1c97bd163c.png" group-title="NOTICIAS INTERNACIONAL", TVGE
 https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
@@ -1286,7 +1286,7 @@ https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qXJ-xwncwjeLmvCpg_0pcFFOX2rnPDVO8l5TEwIbxHGBTGTLLdKWEWljWt0gndnzwA8&usqp=CAU" group-title="CHUBUT", TELECINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/TVSXZMh3wr67j_mz62dCBz1PAaFg_v-Chb0uz88uoyAsV0iL6U7GLE30fTuih0i1W2BheoXq=s176-c-k-c0x00ffffff-no-rj" group-title="CHUBUT", Canal 12 PUERTO MADRYN
+#EXTINF:-1 tvg-logo="https://canal12web.com/wp-content/uploads/2022/07/cropped-Logo-12-Web-OK-1-150x150.png?v=1659038912" group-title="CHUBUT", Canal 12 PUERTO MADRYN
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/chunklist_w1837605383.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/826578535909294080/xUFoE_Sl_400x400.jpg" group-title="CHUBUT", CANAL 4 ESQUEL
