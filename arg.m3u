@@ -1777,10 +1777,10 @@ https://panel.host-live.com:19360/8120/8120.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/canal12misiones.com/wp-content/uploads/2023/06/Recurso-3full-blanco.png?resize=224%2C300&ssl=1" group-title="MISIONES", CANAL 12 MISIONES
-https://g5.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
+https://g3.vxral-slo.transport.edge-access.net/a13/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.unam.edu.ar/templates/yootheme/cache/d5/COMUNIC-TRANSMEDIA-d54b2e85.png" group-title="MISIONES", UNaM TRANSMEDIA MISIONES
-http://192.100.186.53:8090/hls/live.stream.m3u8
+http://192.100.186.53:8091/memfs/0c06fd5f-9b17-4834-83f3-8aca04e20736_output_0.m3u8?session=mXDDwNEhENbmjgvmJt3qDF
 
 #EXTINF:-1 tvg-logo="https://misionescuatro.com/wp-content/themes/misiones-cuatro-2018/img/logo.svg?x19163" group-title="MISIONES", MISIONES CUATRO MISIONES
 https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
@@ -1815,14 +1815,8 @@ https://panel.host-live.com:19360/8078/8078.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=254x10000:format=jpg/path/sdc3404aa05b6ec66/image/id1a56b866cde1b6d/version/1668709855/image.jpg" group-title="MISIONES", TV DONNA DIGITAL
 https://live.enhdtv.com:8081/donnatvdigital/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TELE%20N.png" group-title="MISIONES", TELE N
-https://videostream.shockmedia.com.ar:19360/tlnhd/tlnhd.m3u8 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7r6lNlpZYn84DqFM8tP6GikbULUnbabY2fqPAe5O4_OxUGSpe47Db7TKUIlG7m9nUx9RN0Ij862vSruubwqM4KKDlNmG2Ot3mBLEx5l3prELgKlHmKr6vqj1IJYUVniCU5vooaPoAvg4o3-eDTbsuDhjd26X6O50ibKUpy1Rt6Xu88hkyq0EsECi8Xw/s200-rw/474839416_2262907104096263_8490076340916645795_n-removebg-preview.png" group-title="MISIONES", TELEPOSADAS
-https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 
-#EXTINF:-1 tvg-logo="https://oberainside.com.ar/wp-content/uploads/2023/01/Identidad.png" group-title="MISIONES", OBERA INSIDE
-https://g5.mc-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410746538268282882/MVWRL5Pi_400x400.jpg" group-title="MISIONES", LT17 RADIO PROVINCIA
 https://media.radios.ar:19360/8004/8004.m3u8
@@ -1844,12 +1838,6 @@ https://inliveserver.com:1936/9004/9004/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioiguazu.com/wp-content/uploads/2024/07/radio-yguazu-julio-2024.png" group-title="MISIONES", Radio Yguazu TV
 https://live.enhdtv.com:8081/radioiguazutv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o3GQ_5-eMUQ/XdghLlaXsJI/AAAAAAAAJek/hXsgZgK054ke--p_pshwTXkROwYJNkZ_ACLcBGAsYHQ/s1600/radio-la-retro.png" group-title="MISIONES", RADIO LA RETRO PUERTO RICO MISIONES
-https://video.tecnosoul.com.ar:8443/live/656db4dcdd70b-1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1347295937333522434/p0KOxUjd_400x400.jpg" group-title="MISIONES", RADIO CE - SAN VICENTE
-https://panel.dattalive.com/8098/8098/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIIDENPO.png" group-title="MISIONES", IDENTIDAD 87.9 FM POSADAS
 https://iptv.ixfo.com.ar:30443/live/PoliciaIdentidadTv/playlist.m3u8
