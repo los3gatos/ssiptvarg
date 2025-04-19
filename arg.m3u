@@ -2073,6 +2073,9 @@ https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MPu-cVENDW-VrzC1zfk0XqLH2dTvvPaz0da4r6MbhSYb9CXflR418i0GVX34GJv4tQ" group-title="SANTA CRUZ", CANAL 3 LAS HERAS
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-C10RG.png" group-title="SANTA CRUZ", CABLE 10
+https://nd106.republicaservers.com:4433/hls/c7091/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000677072657/5258433abf9a1b4799167bd2c8506dbe_400x400.jpeg" group-title="SANTA CRUZ", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
 https://streamlov.alsolnet.com/radiomediaticatv/live/playlist.m3u8
 
@@ -2081,6 +2084,8 @@ https://vivo.solumedia.com:19360/radiosanjorge/radiosanjorge.m3u8
 
 #EXTINF:-1 tvg-logo="https://estudiocity.com.ar/img/logo_1675432018.png" group-title="SANTA CRUZ", ESTUDIO CITY 100.5 RIO GALLEGOS
 https://inliveserver.com:1936/12030/12030/playlist.m3u8
+
+
 
 
 
