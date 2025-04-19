@@ -1882,25 +1882,26 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb5-vSRK5KLAtpTQoPAsGV3dPKFq8HDrB8hbgKAYw=s176-c-k-c0x00ffffff-no-rj" group-title="NEUQUEN", CN 24/7 NEUQUEN 
 https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1078_Canal_6___Viento_Recio_Internacional.png" group-title="NEUQUEN", Canal 6 - Viento Recio 
-https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/671ed6_c34db7615e22419983dc02ea94b28f55.png/v1/fill/w_250,h_187,al_c,q_95,enc_auto/671ed6_c34db7615e22419983dc02ea94b28f55.png" group-title="NEUQUEN", EL ARCA DE NEUQUEN
 https://vivo.solumedia.com:19360/elarca/elarca.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiochanar.com.ar/wp-content/uploads/2024/08/LOGO-FULLldpi.png" group-title="NEUQUEN", 87.9 Fm Municipal Radio Chañar
 https://inliveserver.com:1936/12072/12072/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://la105fm.com.ar/wp-content/uploads/2024/01/Logonuevo2.png" group-title="NEUQUEN", La 105 FM Libertad
+#EXTINF:-1 tvg-logo="hhttps://radiosargentina.com.ar/png/VILA105N.png" group-title="NEUQUEN", La 105 FM Libertad
 https://vivo.solumedia.com:19360/la105fm/la105fm.m3u8
 
 #EXTINF:-1 tvg-logo="https://cadenaritmo.com.ar/imagenes/logo.png" group-title="NEUQUEN", CADENA RITMO 101.1 FM 
 https://videostream.shockmedia.com.ar:19360/cadenaritmo/cadenaritmo.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.capital885.com.ar/wp-content/uploads/2021/06/logo.png" group-title="NEUQUEN", Capital 88.5 FM Neuquen
+https://panel.host-live.com:19360/81360/81360.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICOO895.png" group-title="NEUQUEN", La Coope 89.5 FM Zapala
+https://inliveserver.com:1936/12034/12034/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILID897.png" group-title="NEUQUEN", Lider 89.7 FM Caviahue
+https://inliveserver.com:1936/12020/12020/playlist.m3u8
 
 
 
@@ -1942,7 +1943,7 @@ https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
 https://panel.host-live.com:19360/8250/8250.m3u8
 
 #EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2024/11/cropped-EL10TV_LOGO_png-1.png" group-title="SALTA", EL 10 TV
-https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6.m3u8
+https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8?session=SXfb7zS4tqPRpyGxeZaHu5
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xOkdlwpIeM1Do72p9sEkUjRGc83UJCAQA2bwBCvJak9h012FISHmUaJ2vp9Z4W1i6g=s180" group-title="SALTA", NEOX TV SALTA   
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
