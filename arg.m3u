@@ -813,9 +813,6 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="AMBA", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiolapoderosa.esenvivo.com/fc.jpg" group-title="AMBA", LA PODEROSA TV  16.2
-https://videostream.shockmedia.com.ar:19360/poderosa/poderosa.m3u8
-
 #EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg" group-title="AMBA", QUANTICA TV  16.3
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
@@ -860,9 +857,6 @@ https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3de378_8d767ca44c814fbebb80ee05c368dadc~mv2.png/v1/fill/w_103,h_30,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Nuevo%20proyecto.png" group-title="AMBA", X LEVEL TV
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-
-#EXTINF:-1 tvg-logo="https://perfectospekadores.com.ar/images/foto/6744c68a67c9f.webp" group-title="AMBA", Perfectos Pekadores
-https://stmv5.livecastv.com/perfectospekadores/perfectospekadores/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDpW9-oUrhcoA6jqYdCOGpdLNum_mYsRuthvidnxWkbNw2s0Mnq4NNxawzhPH6eQ8jSo&usqp=CAU" group-title="AMBA", DITI TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/dititv/chunks.m3u8
