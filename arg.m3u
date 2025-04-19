@@ -1402,6 +1402,14 @@ https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mw40mdD19gLXwWvaZk08EfYeQhBr22_s9-7GaTbdW3XZQ=s900-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL 7 ARIAS
 https://srv1.zcast.com.br/canal7arias/canal7arias/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--IRTV.png" group-title="CORDOBA", Imagen Regional TV
+https://videohd.live:19360/8078/8078.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIALEGTV.png" group-title="CORDOBA", ALEGRIA TV
+https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MvVCaQ_ko0Xev4kzyFvX5eZ1Mzd2yGVh2ZJ3oDeXif0n_DYqA6cgjufJ31ZflJLMmAV1bq3vXQ=s160-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Alta Gracia 103.9
 https://stmvideo3.livecastv.com/radioaltagracia/radioaltagracia/1.m3u8
 
@@ -1409,10 +1417,7 @@ https://stmvideo3.livecastv.com/radioaltagracia/radioaltagracia/1.m3u8
 http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="CORDOBA", FM COMUNICAR 90.7 FM - COLONIA CAROYA
-https://panel.host-live.com/canal907/canal907/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CLR1nlZWEAAnjMx.jpg" group-title="CORDOBA", RADIO DEL OESTE 91.5 FM - CURA BROCHERO
-https://cs1.xcast.com.br/8890/8890/playlist.m3u8
+https://panel.host-live.com:19360/canal907/canal907.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="CORDOBA", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
 https://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
@@ -1435,14 +1440,8 @@ https://stmvideo3.livecastv.com/radioestacion/radioestacion/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.fmradiorepublica.com.ar/Content/ImagenesHome/radio-larga-recortada.png" group-title="CORDOBA", FM REPUBLICA 95.5 FM MORTEROS CORDOBA
 https://online.coopmorteros.coop/radiorepublica/Canal01.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
-https://videohd.live:19360/8078/8078.m3u8
-
 #EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/LogoUrbana3.png" group-title="CORDOBA", URBANA TV CANAL 651 MORTEROS CORDOBA
 https://online.coopmorteros.coop/radiourbana/canal01.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8HuW1mRMf71Ap76zVOyyH1BEEys8P2_cc2fr4f-Er5RU5wrHqtTw0ieWobhL0bcRGA=w240-h480" group-title="CORDOBA", Radio La Porfiada Salsacate
-https://inliveserver.com:1936/12062/12062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmmitierra.com.ar/wp-content/uploads/2024/04/FM-MI-TIERRA-logo-chico.png" group-title="CORDOBA", FM Mi Tierra 101.1 FM Rio Tercero
 https://stream.trixserver.com:3604/live/uv110live.m3u8
@@ -1459,8 +1458,12 @@ https://videostream.shockmedia.com.ar:19360/lasrosasonline/lasrosasonline.m3u8
 #EXTINF:-1 tvg-logo="https://radiomas883.com.ar/wp-content/uploads/2024/08/cropped-WhatsApp-Image-2024-02-15-at-19.17.19-1.jpeg" group-title="CORDOBA", Radio Mas 88.3 FM Huerta Grande
 https://videostream.shockmedia.com.ar:19360/radiomas883cordoba/radiomas883cordoba.m3u8
 
-#EXTINF:-1 tvg-logo="https://rcm88.com.ar/wp-content/uploads/2023/12/cropped-cropped-logo-web.png" group-title="CORDOBA", Ciudad 100.3 FM Coronel Moldes 
-https://live.enhdtv.com:19360/cesartv/cesartv.m3u8
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIESTURB.png" group-title="CORDOBA", Urbana TV 97.5 FM Rio Tercero
+https://nd106.republicaservers.com:4433/hls/c7632/1_0/index.m3u8?sessId=190245
+
+
+
+
 
 
 
