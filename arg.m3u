@@ -831,9 +831,6 @@ https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 #EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/2abdeea6-0a9d-4083-913c-277bf221b79e" group-title="AMBA", SICARDI TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="AMBA", TVU LA PLATA 32.1
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhCJtgn9fZJ_NMqXU3XTg5bjouqriBfsR5rVSSHAGnR-dJWGhyMAFKvS4OPVZUiYSb3qI&usqp=CAU" group-title="AMBA", Bayres TV 41.1
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
@@ -842,9 +839,6 @@ https://panel.host-live.com:19360/8118/8118.m3u8
 
 #EXTINF:-1 tvg-logo="https://realpolitik.com.ar/uploads/cliente/marca/20180801093720_realpolitik-logo.svg" group-title="AMBA", REALPOLITIK LA PLATA
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000759444059/c1ea62d7b6f20f40999a3245e88a9ad3_400x400.jpeg" group-title="AMBA", CANAL 6 MORENO
-https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediospublicos.marcospaz.net/images/logos/tv-w.png" group-title="AMBA", TVP MARCOS PAZ 19.1
 https://nd106.republicaservers.com/hls/skerk4747/index.m3u8
@@ -875,19 +869,12 @@ https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/enlace.png" group-title="AMBA", ENLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/montegrandetv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1620_Monte_Grande.png" group-title="AMBA", MONTE GRANDE TELEVISION
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/montegrandetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lavozargentina.tv/assets/images/logolavozargentina.png" group-title="AMBA", LA VOZ ARGENTINA
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/lavozargentina/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_npWJ8k6oWxC9-BYXB6IANAnxtTsWY8MKLgBdxBHF8N190=s160-c-k-c0x00ffffff-no-rj" group-title="AMBA", TELEVISION 33
 https://tuvideoonline.com.ar:3703/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvquaere.com.ar/wp-content/uploads/2024/09/logoQ2024-sf.png" group-title="AMBA", QUAERE TV
-https://glb.bozztv.com/glb/ssh101/quaerearg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1536x384.png" group-title="AMBA", CANAL 72
 https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
@@ -900,9 +887,6 @@ https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJdHzp2wLYBncDTew0M_zvN4CjDBr-AEuRw&s" group-title="AMBA", ESPACIO FABRIK
 https://stmv6.voxtvhd.com.br/espaciofabrik/espaciofabrik/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/432/ipersonica.f5bb4df2.png" group-title="AMBA",  IPERSONICA TV
-https://xhateaec.com:8800/hls/visitor/visitor/12863a70457cecf65bd7418d858f55c2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKjx6Fjt4m-jxQ35q-d2KbWvceEz3QUXAP2HtyrzkbpEs44VaDPtec3ykNwz5ju3z5DZM&usqp=CAU" group-title="AMBA",  M21
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/m21puramusica/chunks.m3u8
