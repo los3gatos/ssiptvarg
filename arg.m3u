@@ -853,7 +853,7 @@ https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 https://nd106.republicaservers.com/hls/skerk4747/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/894572709170032640/lf59GoQx_400x400.jpg" group-title="AMBA", TELECREATIVA LANUS
-https://panel.host-live.com/8012/8012/playlist.m3u8
+https://panel.host-live.com:19360/8012/8012.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png" group-title="AMBA", CANAL 4 TELEAIRE
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
@@ -913,8 +913,8 @@ https://xhateaec.com:8800/hls/visitor/visitor/12863a70457cecf65bd7418d858f55c2/i
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKjx6Fjt4m-jxQ35q-d2KbWvceEz3QUXAP2HtyrzkbpEs44VaDPtec3ykNwz5ju3z5DZM&usqp=CAU" group-title="AMBA",  M21
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/m21puramusica/chunks.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----GP.png" group-title="AMBA",  GP DIARIOS
+https://nd106.republicaservers.com:4433/hls/c7328/index.m3u8
 
 
 
@@ -1000,6 +1000,12 @@ https://video1.makrodigital.com/laradiodetodos/laradiodetodos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.subteradio.com.ar/wp-content/uploads/2024/03/logo-300x298.png" group-title="RADIO-AMBA", Subteradio 101.7 FM 
 https://tv.streamcasthd.com:3944/live/jorgemendezlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----TT.png" group-title="RADIO-AMBA", Trend Topic
+https://nd106.republicaservers.com:4433/hls/c7423/0_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLEIL.png" group-title="RADIO-AMBA", Soleil 104.7 FM San Miguel
+https://nd106.republicaservers.com:4433/hls/c7546/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1120362148/fmlaboca_400x400.jpg" group-title="RADIO-AMBA", FM LA BOCA 90.1  (SOLO AUDIO)
 https://s24.myradiostream.com/14984/listen.mp3
 
@@ -1054,6 +1060,9 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288596112761397249/EQcy0Iho.jpg" group-title="PCIA BS AS", CANAL 11 MAR DE AJO
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+
+#EXTINF:-1 tvg-logo="hhttps://radiosargentina.com.ar/png/VI-TV2BA.png" group-title="PCIA BS AS", CANAL 2 BALCARCE
+https://videohd.live:19360/8064/8064.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmHxr-XoOhJRx2C3h0ucX3zHqNLvuk8ksUew&s" group-title="PCIA BS AS",  PLAYA TV VILLA GESELL
 https://videostream.shockmedia.com.ar:19360/playatv/playatv.m3u8
@@ -1210,6 +1219,9 @@ https://vivo.solumedia.com:19360/tv2coop/tv2coop.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/radiofiestaolavarria.png" group-title="PCIA BS AS", Fiesta 105.1 TV Olavarria
 https://inliveserver.com:1936/17050/17050/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRV313.png" group-title="PCIA BS AS", Zona 89.3 FM Miramar
+https://nd106.republicaservers.com:4433/hls/c6618/index.m3u8
 
 
 
