@@ -789,7 +789,8 @@ https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1762691601661296640/ZqsM2g3Z_400x400.jpg" group-title="ANIME - TEEN", TOONIZAKI
 https://mitv.zplay.cl/NinjaZ/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="ANIME - TEEN", VariedTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 
 
 
@@ -1463,6 +1464,9 @@ https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYx-hvzqop-DMKwpBLQJozqWUTjiQAr-J3mlZA7Gw=s900-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", T5 SATELITAL
 https://stream.t5satelital.blog/hls/t5satelital.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/814_TeleNord.png" group-title="CORRIENTES", TeleNord
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="CORRIENTES", EL FOLKLORICO
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 
@@ -1794,7 +1798,8 @@ https://panel.host-live.com:19360/8078/8078.m3u8
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=254x10000:format=jpg/path/sdc3404aa05b6ec66/image/id1a56b866cde1b6d/version/1668709855/image.jpg" group-title="MISIONES", TV DONNA DIGITAL
 https://live.enhdtv.com:8081/donnatvdigital/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1539_Tele_Posadas_HD.png" group-title="MISIONES", Tele Posadas
+https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410746538268282882/MVWRL5Pi_400x400.jpg" group-title="MISIONES", LT17 RADIO PROVINCIA
