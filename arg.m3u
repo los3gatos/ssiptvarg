@@ -11,7 +11,7 @@ http://201.217.246.177:8000/play/a02s/index.m3u8
 http://138.121.114.50:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Tango Sports", ESPN  
-http://181.209.114.13:8000/play/a05a/index.m3u8
+http://138.121.114.50:8000/play/a0a2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="Tango Sports", ESPN 2
 http://181.209.114.13:8000/play/a059/index.m3u8
