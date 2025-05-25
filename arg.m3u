@@ -1762,7 +1762,8 @@ https://stmvideo1.livecastv.com/libertad/libertad/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/canal7-mendoza.png" group-title="MENDOZA", CANAL SIETE DE MENDOZA
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@elsietemendoza/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
@@ -2017,8 +2018,8 @@ https://panel.host-live.com:19360/8160/8160.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_(Logo_2018).png" group-title="SAN JUAN", CANAL 8 DE SAN JUAN
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@canal8sanjuan./live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png" group-title="SAN JUAN", CANAL 4 SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
