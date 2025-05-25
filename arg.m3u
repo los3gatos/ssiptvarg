@@ -1349,6 +1349,9 @@ http://190.123.90.146:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="CORDOBA", CIUDAD MAGICA TV
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.coop5.com.ar/coop/img/coop/coopnavhead.png" group-title="CORDOBA", COOP CAROYA
+https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tributv.com.ar/wp-content/uploads/2020/11/logo-tributv.png" group-title="CORDOBA", TRIBU TV LAS VARILLAS CORDOBA
 https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8
 
@@ -1415,10 +1418,20 @@ https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CEMDO.png" group-title="CORDOBA", CEMDO TV
 https://inliveserver.com:1936/12058/12058/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="CORDOBA", La Popu 92.3 FM
+https://cdn.sensa.com.ar/output/ET-01/popular/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MvVCaQ_ko0Xev4kzyFvX5eZ1Mzd2yGVh2ZJ3oDeXif0n_DYqA6cgjufJ31ZflJLMmAV1bq3vXQ=s160-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Alta Gracia 103.9
 https://stmvideo3.livecastv.com/radioaltagracia/radioaltagracia/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIcMScHiLlcNckXa9v8XOX1UXJpProhCtdcQ&s" group-title="CORDOBA", COSQUIN ROCK RADIO
+https://cdn.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbLQi-n_QPuNNJp2q6bShw8AG1fYbjosehA&s" group-title="CORDOBA", RADIO COOP ONLINE
+https://cdn.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_aN4zktvPEbP-Scx5PeZQBJOP6u4M1YIsZqx-BGXL7StulojSXG_8BPZ-oOwmNJHkGd-JotS7mMbQfuV4czWSOxZFQnFqIpYHQ" group-title="CORDOBA", RADIO ACTIVA 95.3 FM LUQUE
+https://cdn.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fmmaslacarlota.com.ar/img/logo_1643643551.gif" group-title="CORDOBA", FM MAS TV LA CARLOTA CORDOBA
 http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
