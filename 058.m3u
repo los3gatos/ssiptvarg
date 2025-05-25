@@ -1,9 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/canal7-mendoza.png" group-title="MENDOZA", AMERICA TUCUMAN
-https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@AmericaTucuman/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
-
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2401/CH_LOGO/160/160/0/0/95897423078121.png" group-title="INTERIOR AR", CANAL 6 DE FREYRE op2
 https://smt-usr-edge01.sensa.com.ar/output/ARR3/FRYD/output.mpd
 
