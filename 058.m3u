@@ -1,215 +1,172 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",26TV
-http://190.96.112.22:9202/play/a01r/index.m3u8
-#EXTINF:-1 group-title="-",A&E HD
-http://190.96.112.22:9202/play/a05i/index.m3u8
-#EXTINF:-1 group-title="-",A24
-http://190.96.112.22:9202/play/a01o/index.m3u8
-#EXTINF:-1 group-title="-",AM Sports
-http://190.96.112.22:9202/play/a01v/index.m3u8
-#EXTINF:-1 group-title="-",AMC
-http://190.96.112.22:9202/play/a01z/index.m3u8
-#EXTINF:-1 group-title="-",ARGENTINISIMA
-http://190.96.112.22:9202/play/a0a1/index.m3u8
-#EXTINF:-1 group-title="-",AXN HD
-http://190.96.112.22:9202/play/a05f/index.m3u8
-#EXTINF:-1 group-title="-",Adult swim HD
-http://190.96.112.22:9202/play/a0ah/index.m3u8
-#EXTINF:-1 group-title="-",America TV HD
-http://190.96.112.22:9202/play/a055/index.m3u8
-#EXTINF:-1 group-title="-",BOLIVISION
-http://190.96.112.22:9202/play/a0a0/index.m3u8
-#EXTINF:-1 group-title="-",Baby TV
-http://190.96.112.22:9202/play/a02e/index.m3u8
-#EXTINF:-1 group-title="-",C5N
-http://190.96.112.22:9202/play/a01p/index.m3u8
-#EXTINF:-1 group-title="-",CANAL 10 CORDOBA
-http://190.96.112.22:9202/play/a09x/index.m3u8
-#EXTINF:-1 group-title="-",CANAL 12 CORDOBA
-http://190.96.112.22:9202/play/a0ba/index.m3u8
-#EXTINF:-1 group-title="-",CM
-http://190.96.112.22:9202/play/a09n/index.m3u8
-#EXTINF:-1 group-title="-",CNN en Espaæol
-http://190.96.112.22:9202/play/a054/index.m3u8
-#EXTINF:-1 group-title="-",Canal a
-http://190.96.112.22:9202/play/a09j/index.m3u8
-#EXTINF:-1 group-title="-",Canal de la Ciudad
-http://190.96.112.22:9202/play/a06e/index.m3u8
-#EXTINF:-1 group-title="-",Cartoon Network HD
-http://190.96.112.22:9202/play/a075/index.m3u8
-#EXTINF:-1 group-title="-",Cine.AR
-http://190.96.112.22:9202/play/a024/index.m3u8
-#EXTINF:-1 group-title="-",Cinecanal HD
-http://190.96.112.22:9202/play/a07b/index.m3u8
-#EXTINF:-1 group-title="-",Cinemax
-http://190.96.112.22:9202/play/a04s/index.m3u8
-#EXTINF:-1 group-title="-",Comedy Central HD
-http://190.96.112.22:9202/play/a02x/index.m3u8
-#EXTINF:-1 group-title="-",Cronica
-http://190.96.112.22:9202/play/a01q/index.m3u8
-#EXTINF:-1 group-title="-",DeporTV
-http://190.96.112.22:9202/play/a06h/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Channel HD
-http://190.96.112.22:9202/play/a07i/index.m3u8
-#EXTINF:-1 group-title="-",Discovery H&H HD
-http://190.96.112.22:9202/play/a07h/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Kids
-http://190.96.112.22:9202/play/a06t/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Science
-http://190.96.112.22:9202/play/a02k/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Theater HD
-http://190.96.112.22:9202/play/a02z/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Turbo
-http://190.96.112.22:9202/play/a01w/index.m3u8
-#EXTINF:-1 group-title="-",Discovery World HD
-http://190.96.112.22:9202/play/a031/index.m3u8
-#EXTINF:-1 group-title="-",Disney Channel HD
-http://190.96.112.22:9202/play/a02r/index.m3u8
-#EXTINF:-1 group-title="-",Disney Junior
-http://190.96.112.22:9202/play/a04y/index.m3u8
-#EXTINF:-1 group-title="-",E! Entertainment
-http://190.96.112.22:9202/play/a050/index.m3u8
-#EXTINF:-1 group-title="-",ENLACE
-http://190.96.112.22:9202/play/a09u/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
-http://190.96.112.22:9202/play/a059/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
-http://190.96.112.22:9202/play/a05b/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4 HD
-http://190.96.112.22:9202/play/a076/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
-http://190.96.112.22:9202/play/a05a/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
-http://190.96.112.22:9202/play/a078/index.m3u8
-#EXTINF:-1 group-title="-",EWTN
-http://190.96.112.22:9202/play/a0a3/index.m3u8
-#EXTINF:-1 group-title="-",El Canal  de las Estrellas
-http://190.96.112.22:9202/play/a06z/index.m3u8
-#EXTINF:-1 group-title="-",El Gourmet
-http://190.96.112.22:9202/play/a06w/index.m3u8
-#EXTINF:-1 group-title="-",Encuentro
-http://190.96.112.22:9202/play/a01m/index.m3u8
-#EXTINF:-1 group-title="-",Europa Europa
-http://190.96.112.22:9202/play/a06v/index.m3u8
-#EXTINF:-1 group-title="-",FX HD
-http://190.96.112.22:9202/play/a02v/index.m3u8
-#EXTINF:-1 group-title="-",Film & Arts HD
-http://190.96.112.22:9202/play/a030/index.m3u8
-#EXTINF:-1 group-title="-",Fox Sports 2 HD
-http://190.96.112.22:9202/play/a05c/index.m3u8
-#EXTINF:-1 group-title="-",Fox Sports 3 HD
-http://190.96.112.22:9202/play/a02t/index.m3u8
-#EXTINF:-1 group-title="-",Fox Sports HD
-http://190.96.112.22:9202/play/a07j/index.m3u8
-#EXTINF:-1 group-title="-",Galicia TV
-http://190.96.112.22:9202/play/a02q/index.m3u8
-#EXTINF:-1 group-title="-",HBO
-http://190.96.112.22:9202/play/a06o/index.m3u8
-#EXTINF:-1 group-title="-",HBO 2
-http://190.96.112.22:9202/play/a06q/index.m3u8
-#EXTINF:-1 group-title="-",HBO Family
-http://190.96.112.22:9202/play/a06r/index.m3u8
-#EXTINF:-1 group-title="-",HBO Mundi
-http://190.96.112.22:9202/play/a02a/index.m3u8
-#EXTINF:-1 group-title="-",HBO Plus
-http://190.96.112.22:9202/play/a06p/index.m3u8
-#EXTINF:-1 group-title="-",HBO Signature
-http://190.96.112.22:9202/play/a02c/index.m3u8
-#EXTINF:-1 group-title="-",HBO Xtreme
-http://190.96.112.22:9202/play/a02b/index.m3u8
-#EXTINF:-1 group-title="-",HGTV
-http://190.96.112.22:9202/play/a02j/index.m3u8
-#EXTINF:-1 group-title="-",HTV
-http://190.96.112.22:9202/play/a02o/index.m3u8
-#EXTINF:-1 group-title="-",History 2
-http://190.96.112.22:9202/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="-",La Nacion TV
-http://190.96.112.22:9202/play/a01s/index.m3u8
-#EXTINF:-1 group-title="-",Lifetime
-http://190.96.112.22:9202/play/a06n/index.m3u8
-#EXTINF:-1 group-title="-",MTV
-http://190.96.112.22:9202/play/a02m/index.m3u8
-#EXTINF:-1 group-title="-",MTV×00
-http://190.96.112.22:9202/play/a053/index.m3u8
-#EXTINF:-1 group-title="-",Metro
-http://190.96.112.22:9202/play/a02g/index.m3u8
-#EXTINF:-1 group-title="-",Nat Geo HD
-http://190.96.112.22:9202/play/a05g/index.m3u8
-#EXTINF:-1 group-title="-",Nick Jr
-http://190.96.112.22:9202/play/a06u/index.m3u8
-#EXTINF:-1 group-title="-",Nickelodeon
-http://190.96.112.22:9202/play/a04z/index.m3u8
-#EXTINF:-1 group-title="-",PASIONES
-http://190.96.112.22:9202/play/a09y/index.m3u8
-#EXTINF:-1 group-title="-",Pakapaka
-http://190.96.112.22:9202/play/a01n/index.m3u8
-#EXTINF:-1 group-title="-",Paramount HD
-http://190.96.112.22:9202/play/a02y/index.m3u8
-#EXTINF:-1 group-title="-",Quiero Musica
-http://190.96.112.22:9202/play/a02n/index.m3u8
-#EXTINF:-1 group-title="-",RAI Italia
-http://190.96.112.22:9202/play/a02p/index.m3u8
-#EXTINF:-1 group-title="-",RT en Espaæol
-http://190.96.112.22:9202/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="-",RT en Espaæol (clone)
-http://190.96.112.22:9202/play/a0bo/index.m3u8
-#EXTINF:-1 group-title="-",Rural
-http://190.96.112.22:9202/play/a02f/index.m3u8
-#EXTINF:-1 group-title="-",Sony HD
-http://190.96.112.22:9202/play/a05d/index.m3u8
-#EXTINF:-1 group-title="-",Sony Movies HD
-http://190.96.112.22:9202/play/a05k/index.m3u8
-#EXTINF:-1 group-title="-",Space HD
-http://190.96.112.22:9202/play/a02w/index.m3u8
-#EXTINF:-1 group-title="-",Star Channel HD
-http://190.96.112.22:9202/play/a079/index.m3u8
-#EXTINF:-1 group-title="-",Studio Universal
-http://190.96.112.22:9202/play/a022/index.m3u8
-#EXTINF:-1 group-title="-",TCM
-http://190.96.112.22:9202/play/a020/index.m3u8
-#EXTINF:-1 group-title="-",TELEMUNDO
-http://190.96.112.22:9202/play/a0a4/index.m3u8
-#EXTINF:-1 group-title="-",TLNovelas
-http://190.96.112.22:9202/play/a0bi/index.m3u8
-#EXTINF:-1 group-title="-",TN HD
-http://190.96.112.22:9202/play/a058/index.m3u8
-#EXTINF:-1 group-title="-",TNT HD
-http://190.96.112.22:9202/play/a07d/index.m3u8
-#EXTINF:-1 group-title="-",TNT Novelas HD
-http://190.96.112.22:9202/play/a07g/index.m3u8
-#EXTINF:-1 group-title="-",TNT Series HD
-http://190.96.112.22:9202/play/a07e/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports HD
-http://190.96.112.22:9202/play/a0bc/index.m3u8
-#EXTINF:-1 group-title="-",TV Publica HD
-http://190.96.112.22:9202/play/a056/index.m3u8
-#EXTINF:-1 group-title="-",TVE
-http://190.96.112.22:9202/play/a072/index.m3u8
-#EXTINF:-1 group-title="-",Telefe HD
-http://190.96.112.22:9202/play/a06c/index.m3u8
-#EXTINF:-1 group-title="-",The History Channel HD
-http://190.96.112.22:9202/play/a05h/index.m3u8
-#EXTINF:-1 group-title="-",TyC Sports HD
-http://190.96.112.22:9202/play/a02s/index.m3u8
-#EXTINF:-1 group-title="-",USA Network
-http://190.96.112.22:9202/play/a023/index.m3u8
-#EXTINF:-1 group-title="-",Universal HD
-http://190.96.112.22:9202/play/a05j/index.m3u8
-#EXTINF:-1 group-title="-",Volver
-http://190.96.112.22:9202/play/a021/index.m3u8
-#EXTINF:-1 group-title="-",Warner Channel HD
-http://190.96.112.22:9202/play/a05e/index.m3u8
-#EXTINF:-1 group-title="-",canal 8 TELEFE CORDOBA
-http://190.96.112.22:9202/play/a0be/index.m3u8
-#EXTINF:-1 group-title="-",ciudad magazine
-http://190.96.112.22:9202/play/a02h/index.m3u8
-#EXTINF:-1 group-title="-",el garage
-http://190.96.112.22:9202/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="-",el nueve HD
-http://190.96.112.22:9202/play/a04h/index.m3u8
-#EXTINF:-1 group-title="-",el trece HD
-http://190.96.112.22:9202/play/a06d/index.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2401/CH_LOGO/160/160/0/0/95897423078121.png" group-title="INTERIOR AR", CANAL 6 DE FREYRE op2
+https://smt-usr-edge01.sensa.com.ar/output/ARR3/FRYD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://www.coop5.com.ar/coop/img/coop/coopnavhead.png" group-title="INTERIOR AR",CANAL COOP 
+https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.coop5.com.ar/coop/img/coop/coopnavhead.png" group-title="INTERIOR AR",CANAL COOP op2
+https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvcoop.tv/assets/img/logoweb.png" group-title="INTERIOR AR", CANAL COOP JUSTINIANO POSSE
+https://smt-usr-edge01.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvcoop.tv/assets/img/logoweb.png" group-title="INTERIOR AR", CANAL COOP JUSTINIANO POSSE op2
+https://cdn.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://coonet.com.ar/public/assets/images/coonet-logo-icono.png" group-title="INTERIOR AR",CANAL COONET TV
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/BRKD/output.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5GckXK/TV-COOP-SURDI.png" group-title="INTERIOR AR",TV COOP
+https://smt-usr-edge02.sensa.com.ar/output/ARR3/SADD/output.mpd
 
 
+#EXTINF:-1 tvg-logo="https://cooperativarioprimero.com.ar/wp-content/uploads/2023/08/Logo-70-Anos-COOP-Sin-Estrellas-750x817.png" group-title="INTERIOR AR",MULTIMEDIOS RIO PRIMERO
+https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://www.coelealcira.com.ar/NewSite/wp-content/uploads/2022/03/NMC-ALPHA-1024x467.png" group-title="INTERIOR AR",NEXO SMC MULTIMEDIOS
+https://smt-usr-edge02.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gNOctQDFUb0/WeIZgKZsj4I/AAAAAAAAAw8/8TDcwcveP_4wk2aSUo1DU_PxeLsVx5wWgCLcBGAs/s1600/CPE-TV.png" group-title="INTERIOR AR",CPE TV
+https://smt-usr-edge01.sensa.com.ar/output/ARR/SRLPD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="INTERIOR AR",COOPLUS
+https://smt-usr-edge01.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="INTERIOR AR",COOPLUS op2
+http://cdn.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://playtelevision.com.ar/wp-content/uploads/2022/09/Play-tv-logo-gris.png" group-title="INTERIOR AR" ,PLAY TELEVISION 
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8 
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-21-logo.png",CANAL 21
+https://mcgo2.boldmss.com/CANAL_21/CANAL_21_MC.isml/CANAL_21_MC.mpd
+
+#EXTINF:-1 group-title="RADIOS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3841/CH_LOGO/800/542/0/0/71241680072511.png",Cadena 3
+https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
+
+#EXTINF:-1 group-title="RADIOS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3981/CH_LOGO/800/542/0/0/71941975079039.png",Cosquín Rock
+https://cdn.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
+
+#EXTINF:-1 group-title="RADIOS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3982/CH_LOGO/800/542/0/0/67035155079040.png",La Popu
+https://cdn.sensa.com.ar/output/ET-01/popular/master.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2482/CH_LOGO/800/542/0/0/85617370076521.png",TVCO PICO
+https://smt-usr-edge01.sensa.com.ar/output/ARR/TVCOD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2501/CH_LOGO/800/542/0/0/45581772073270.png",Punta Alta Visión
+https://smt-usr-edge01.sensa.com.ar/output/SMT2/CEPATVD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1061/CH_LOGO/800/542/0/0/79624310076902.png",LDM TV La Pampa
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/Canal19LPD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2503/CH_LOGO/800/542/0/0/18862298077160.png",DBosco Televisión
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/C7SAAD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3082/CH_LOGO/800/542/0/0/88754444078504.png",CableCoop Charlone
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/CCCD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3422/CH_LOGO/800/542/0/0/60976969078835.png",NTV Tortuguitas
+https://smt-usr-edge01.sensa.com.ar/output/SMT5/NTVD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1022/CH_LOGO/800/542/0/0/31560740072137.png",Cable 10 Río Gallegos
+https://smt-usr-edge01.sensa.com.ar/output/ARR/Rio_GallegosD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2508/CH_LOGO/800/542/0/0/11083432076534.png",CLYFER TV
+https://smt-usr-edge01.sensa.com.ar/output/ARR/CLYFERD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2509/CH_LOGO/800/542/0/0/88623159076702.png",CETV Canal Deheza
+https://smt-usr-edge01.sensa.com.ar/output/ARR/DehezaD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2512/CH_LOGO/800/542/0/0/30214768077125.png",Río Primero TV
+https://cdn.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2515/CH_LOGO/800/542/0/0/77974389077126.png",Luque TV
+https://cdn.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2514/CH_LOGO/800/542/0/0/89469456077129.png",COVISAR - Sta Rosa
+https://cdn.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2516/CH_LOGO/800/542/0/0/15168501077127.png",Temple TV
+https://cdn.sensa.com.ar/output/STAROSA/TEMPLETVH/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3968/CH_LOGO/800/542/0/0/21588335079036.png",CoopMorteros Streaming
+https://smt-usr-edge01.sensa.com.ar/output/ARR/CMSD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1819/CH_LOGO/800/542/0/0/70000132077572.png",Canal 3 Tacural
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/TacuralD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2521/CH_LOGO/800/542/0/0/38808379077146.png",Canal Cooperativo Alicia
+https://smt-usr-edge01.sensa.com.ar/output/LVR/CCAD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i.postimg.cc/K8Hd0MQh/ceosacaaa.png",CEOSCA-Camilo Aldao
+https://cdn.sensa.com.ar/output/NDS/CEOSCAH/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2523/CH_LOGO/800/542/0/0/45821431071947.png",C20 Villa María
+https://smt-usr-edge01.sensa.com.ar/output/SMT5/C20D/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3042/CH_LOGO/800/542/0/0/50103492078472.png",STV 2 Canal - Las Varillas
+https://smt-usr-edge01.sensa.com.ar/output/LVR/STV2D/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2527/CH_LOGO/800/542/0/0/39411063077630.png",RTV Canal 2 Golcable
+https://smt-usr-edge01.sensa.com.ar/output/SMT5/GolcableD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3342/CH_LOGO/800/542/0/0/41079403078757.png",CELTTV Tornquist
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/CELTTVD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2531/CH_LOGO/800/542/0/0/91408905077946.png",Canal 2 Pueblo San José
+https://smt-usr-edge01.sensa.com.ar/output/SMT2/PSJD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2532/CH_LOGO/800/542/0/0/35408141078125.png",Canal 11 María Juana
+https://smt-usr-edge01.sensa.com.ar/output/SMT5/MariaJuanaD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2533/CH_LOGO/800/542/0/0/70000165078012.png",Canal 4 Pingüé
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/C4PD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/800/542/0/0/35003362076629.png",Vivencias TV
+https://cdn.sensa.com.ar/output/NDS/vivenciasH/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2543/CH_LOGO/800/542/0/0/49748039075506.png",Unidos Tv
+https://cdn.sensa.com.ar/output/NDS/unidostvH/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3482/CH_LOGO/800/542/0/0/66473712078884.png",TV Coop Hernando
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/HERD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3882/CH_LOGO/800/542/0/0/54537430079017.png",El Sauce TV Canal Local VGB
+https://smt-usr-edge01.sensa.com.ar/output/ARR3/ElSauceTVD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2941/CH_LOGO/800/542/0/0/21304890078316.png",Canal 3 Arroyito
+https://smt-usr-edge01.sensa.com.ar/output/ARR3/C3AD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2801/CH_LOGO/800/542/0/0/56157196078230.png",RioTel Río Tercero
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/RTD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2536/CH_LOGO/800/542/0/0/98726444077724.png",Canal 2 Almafuerte
+https://smt-usr-edge02.sensa.com.ar/output/ARR/ALMD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2538/CH_LOGO/800/542/0/0/35734658076751.png",Cegro General Roca
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/GRD/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/800/542/0/0/29838770078011.png",Canal 11 Oliva
+https://smt-usr-edge01.sensa.com.ar/output/NDS/OlivaH/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3201/CH_LOGO/800/542/0/0/73160833078309.png",VIVE TV
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/VIVED/output.mpd
+
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/800/542/0/0/86198033078075.png",TvCoop Suardi
+https://smt-usr-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
+
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/800/542/0/0/11228946078364.png",Coopetel TV - El Bolsón   
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/CPTD/output.mpd
+
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2528/CH_LOGO/800/542/0/0/60393547077609.png",Marchi TV
+https://smt-usr-edge01.sensa.com.ar/output/SMT2/MARCHITVD/output.mpd
+
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2539/CH_LOGO/800/542/0/0/39912108073157.png",Somos Uno Chaco TV
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/CHTVD/output.mpd
