@@ -1418,6 +1418,12 @@ https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CEMDO.png" group-title="CORDOBA", CEMDO TV
 https://inliveserver.com:1936/12058/12058/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEc2bnJpXYBs50v7pbsoyQzCIGE2B7sjuTg&s" group-title="CORDOBA", COVISAR
+https://cdn.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CORDOBA", TEMPLE TV
+https://cdn.sensa.com.ar/output/STAROSA/TEMPLETVH/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="CORDOBA", La Popu 92.3 FM
 https://cdn.sensa.com.ar/output/ET-01/popular/master.m3u8
 
