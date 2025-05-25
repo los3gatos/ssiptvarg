@@ -1352,6 +1352,9 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.coop5.com.ar/coop/img/coop/coopnavhead.png" group-title="CORDOBA", COOP CAROYA
 https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9y29VYVkoft9EYK2Du_OGAtmqCv8N9aSISw&s" group-title="CORDOBA", CEOSCA
+https://cdn.sensa.com.ar/output/NDS/CEOSCAH/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tributv.com.ar/wp-content/uploads/2020/11/logo-tributv.png" group-title="CORDOBA", TRIBU TV LAS VARILLAS CORDOBA
 https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8
 
