@@ -1355,6 +1355,15 @@ https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9y29VYVkoft9EYK2Du_OGAtmqCv8N9aSISw&s" group-title="CORDOBA", CEOSCA
 https://cdn.sensa.com.ar/output/NDS/CEOSCAH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://coonet.com.ar/public/assets/images/coonet-logo-icono.png" group-title="CORDOBA", CANAL COONET TV
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/BRKD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://cooperativarioprimero.com.ar/wp-content/uploads/2023/08/Logo-70-Anos-COOP-Sin-Estrellas-750x817.png" group-title="CORDOBA" ,MULTIMEDIOS RIO PRIMERO
+https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://www.coelealcira.com.ar/NewSite/wp-content/uploads/2022/03/NMC-ALPHA-1024x467.png" group-title="CORDOBA", NEXO SMC MULTIMEDIOS
+https://smt-usr-edge02.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://tributv.com.ar/wp-content/uploads/2020/11/logo-tributv.png" group-title="CORDOBA", TRIBU TV LAS VARILLAS CORDOBA
 https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8
 
@@ -1438,6 +1447,8 @@ https://cdn.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbLQi-n_QPuNNJp2q6bShw8AG1fYbjosehA&s" group-title="CORDOBA", RADIO COOP ONLINE
 https://cdn.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_aN4zktvPEbP-Scx5PeZQBJOP6u4M1YIsZqx-BGXL7StulojSXG_8BPZ-oOwmNJHkGd-JotS7mMbQfuV4czWSOxZFQnFqIpYHQ" group-title="CORDOBA", RADIO ACTIVA 95.3 FM LUQUE
 https://cdn.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
