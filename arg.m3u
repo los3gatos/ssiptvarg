@@ -173,6 +173,9 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3XzCffXj9nYd5p_acJ0_sGrMyaE2EQFkbKQ&s" group-title="NACIONALES", KZO
+https://val03.ride.com.ar/tvmia/an19/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -212,6 +215,8 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vorterix.com/images/logo_vorterix-horizontal.svg" group-title="NACIONALES", VORTERIX
 https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" group-title="NACIONALES", ASPEN 102.3
+https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
 
 
