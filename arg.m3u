@@ -696,11 +696,11 @@ http://181.209.114.13:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO Pop
 http://181.176.153.106:8090/play/a0qc/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO Xtreme
-http://181.13.173.86:8000/play/a02b/index.m3u8
+http://181.209.114.13:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png" group-title="HBO-UNIVERSAL", HBO Mundi
-http://181.13.173.86:8000/play/a02a/index.m3u8
+http://181.209.114.13:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="HBO-UNIVERSAL", HBO Signature
-http://181.13.173.86:8000/play/a02c/index.m3u8
+http://181.209.114.13:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Premiere
 http://190.60.40.37:8001/play/a097
