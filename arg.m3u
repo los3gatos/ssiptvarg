@@ -1101,7 +1101,7 @@ https://stmv5.livecastv.com/bolivartelevision/bolivartelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/22-800x450.jpg" group-title="PCIA BS AS", B.T.V. DIGITAL
 https://fl1002.bozztv.com/ssh101/btvdigital/mono.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOTWFu_8y-qIXam5g0zFDLoCHd3Ik5Zah8ps2yLB6l2Y3KceuwV3Jt2YiCu9pL_sFvFA&usqp=CAU" group-title="PCIA BS AS", JUNTO AL CAMPO
 https://stmv5.livecastv.com/juntoalcampo/juntoalcampo/playlist.m3u8
 
