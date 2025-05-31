@@ -1320,8 +1320,7 @@ https://videohd.live:19360/8046/8046.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILBOCHA.png" group-title="CHUBUT", La Bocha 99.9 FM Puerto Madryn
 https://inliveserver.com:1936/12040/12040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://elcaletenseradio.com.ar/03-2022/b95960a8fd16b1e030f73162697125a7.jpg" group-title="CHUBUT", El Caletense 98.5 FM  Caleta Olivia
-https://nd106.republicaservers.com:4433/hls/elcaletense/1_0/index.m3u8?sessId=2680937
+
 
 
 
@@ -2130,6 +2129,9 @@ https://vivo.solumedia.com:19360/radiosanjorge/radiosanjorge.m3u8
 
 #EXTINF:-1 tvg-logo="https://estudiocity.com.ar/img/logo_1675432018.png" group-title="SANTA CRUZ", ESTUDIO CITY 100.5 RIO GALLEGOS
 https://inliveserver.com:1936/12030/12030/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://elcaletenseradio.com.ar/03-2022/b95960a8fd16b1e030f73162697125a7.jpg" group-title="SANTA CRUZ", El Caletense 98.5 FM  Caleta Olivia
+https://nd106.republicaservers.com:4433/hls/elcaletense/1_0/index.m3u8?sessId=2680937
 
 
 
