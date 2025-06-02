@@ -1415,6 +1415,18 @@ https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVD/output.mpd
 #EXTINF:-1 tvg-logo="https://www.coelealcira.com.ar/NewSite/wp-content/uploads/2022/03/NMC-ALPHA-1024x467.png" group-title="CORDOBA", NEXO SMC MULTIMEDIOS
 https://smt-usr-edge02.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2521/CH_LOGO/800/542/0/0/38808379077146.png" group-title="CORDOBA" ,Canal Cooperativo Alicia
+https://smt-usr-edge01.sensa.com.ar/output/LVR/CCAD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8Hd0MQh/ceosacaaa.png" group-title="CORDOBA" ,CEOSCA-Camilo Aldao
+https://cdn.sensa.com.ar/output/NDS/CEOSCAH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2523/CH_LOGO/800/542/0/0/45821431071947.png" group-title="CORDOBA" , C20 Villa María
+https://smt-usr-edge01.sensa.com.ar/output/SMT5/C20D/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3042/CH_LOGO/800/542/0/0/50103492078472.png" group-title="CORDOBA" , STV 2 Canal - Las Varillas
+https://smt-usr-edge01.sensa.com.ar/output/LVR/STV2D/output.mpd
+
 #EXTINF:-1 tvg-logo="https://tributv.com.ar/wp-content/uploads/2020/11/logo-tributv.png" group-title="CORDOBA", TRIBU TV LAS VARILLAS CORDOBA
 https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8
 
