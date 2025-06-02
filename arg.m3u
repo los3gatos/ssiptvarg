@@ -1095,6 +1095,9 @@ https://videohd.live:19360/8064/8064.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmHxr-XoOhJRx2C3h0ucX3zHqNLvuk8ksUew&s" group-title="PCIA BS AS",  PLAYA TV VILLA GESELL
 https://videostream.shockmedia.com.ar:19360/playatv/playatv.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cabletel.net.ar/wp-content/uploads/2022/05/Recurso-7.png" group-title="PCIA BS AS", CABLETEL CANAL 4 DE ZARATE
+https://play.nexolife.com/cabletel/12d8f003f30f0dec5bca10ab7473dd7b.sdp/chunks_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://alternatv.ar/alternatv.png" group-title="PCIA BS AS", ALTERNA TV
 https://alternatv.ar/stream/hls/live.m3u8
 
