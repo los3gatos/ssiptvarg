@@ -2465,7 +2465,53 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 
 
 
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg",MEGACINE
+https://cnn.hostlagarto.com/megacinetv/mono.m3u8
 
+#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/67cPJ3Lg/box-cinema.png",BOX CINEMA
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png",ROMANCE CHANNEL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="CINE",CINE DE HORROR
+https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BVk47mx3/horrorvision-logo.png" group-title="CINE",HORROR VISION
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?&ads.xumo_channelId=88883019
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26NfJ14K/sony-one-exitos.png" group-title="CINE",SONY ONE ÉXITOS
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbscjKn/sony-one-hits-accion.png" group-title="CINE",SONY ONE HITS ACCIÓN
+https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzW8RGL7/sony-one-series-thriller.png" group-title="CINE",SONY ONE SERIES THRILLER
+https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-833-ES-SONYONESERIESTHRILLER-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRnvBPv/sony-one-series-comedia.png" group-title="CINE",SONY ONE SERIES COMEDIA
+https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7nP8p9X/sony-one-hits-comedia.png" group-title="CINE",SONY ONE HITS COMEDIA
+https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g095cfnw/sony-one-blacklist.png" group-title="CINE",SONY ONE BLACKLIST
+https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMszpbjy/crimen-de-warner.png" group-title="CINE",CRIMEN DE WARNER TV
+https://amg00136-amg00136c60-canelatv-international-6417.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-crimen-canelatvinternational/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjNw0bH7/472581744-2382542678790292-7694170186806418893-n.png" group-title="CINE",+ TV TOTONICAPÁN
+https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvQ2p3t/2q-Jl-Tsa3-KTA70-Th-K4-UAz-H66-J0-MF-2q-Jl-Tp-WH0-K294c6-VTx-Tftt1-GXDk-2q-Jl-URfo-XMh-Jz-NZy799-Hr.png"group-title="CINE",RESTELLI TV CANAL 5 MG
+https://stream.gia.tv:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBWvMkj6/sony-one-logo.png" group-title="CINE",SONY ONE CINEMA
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 
 
