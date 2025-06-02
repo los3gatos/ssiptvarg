@@ -1080,6 +1080,9 @@ https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="PCIA BS AS", CANAL 6 MAR DEL PLATA
 https://panel.host-live.com/8186/8186/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2501/CH_LOGO/800/542/0/0/45581772073270.png"  group-title="PCIA BS AS, Punta Alta Visión
+https://smt-usr-edge01.sensa.com.ar/output/SMT2/CEPATVD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png" group-title="PCIA BS AS", CANAL 10 MAR DEL PLATA
 https://g4.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
@@ -1100,6 +1103,16 @@ https://videostream.shockmedia.com.ar:19360/playatv/playatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cabletel.net.ar/wp-content/uploads/2022/05/Recurso-7.png" group-title="PCIA BS AS", CABLETEL CANAL 4 DE ZARATE
 https://play.nexolife.com/cabletel/12d8f003f30f0dec5bca10ab7473dd7b.sdp/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2503/CH_LOGO/800/542/0/0/18862298077160.png" group-title="PCIA BS AS", DBosco Television
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/C7SAAD/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3082/CH_LOGO/800/542/0/0/88754444078504.png" group-title="PCIA BS AS, CableCoop Charlone
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/CCCD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3422/CH_LOGO/800/542/0/0/60976969078835.png" group-title="PCIA BS AS, NTV Tortuguitas
+https://smt-usr-edge01.sensa.com.ar/output/SMT5/NTVD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://alternatv.ar/alternatv.png" group-title="PCIA BS AS", ALTERNA TV
 https://alternatv.ar/stream/hls/live.m3u8
@@ -1745,10 +1758,10 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ldmtv.com.ar/vivo.jpg" group-title="LA PAMPA", LDM TV LA PAMPA
-https://stream.arcast.host:8443/ldmtv/ldmtv/playlist.m3u8
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/Canal19LPD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.corpico.com.ar/static/img/tvco-vivo.png" group-title="LA PAMPA", TVCO GENERAL PICO
-https://smt-usr-edge01.sensa.com.ar/output/ARR/TVCOh/track_0_3000/playlist.m3u8
+https://smt-usr-edge01.sensa.com.ar/output/ARR/TVCOD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162918837/FRAME_ID_SOMOS_LA_PAMP__copia_reasonably_small.gif" group-title="LA PAMPA", SOMOS LA PAMPA
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
