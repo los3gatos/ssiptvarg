@@ -1068,6 +1068,9 @@ http://streamer.fmfutura.com.ar:8000/vivo.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_10_de_Jun%C3%ADn_%28Logo_Noviembre_2022%29.png" group-title="PCIA BS AS", CANAL 10 DE JUNIN
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ElnueveTV.png/200px-ElnueveTV.png" group-title="PCIA BS A" , EL NUEVE BAHIA BLANCA
+https://bvclive1.boldmss.com/EL_NUEVE/EL_NUEVE.isml/EL_NUEVE.mpd
+
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS", CANAL 2 MAR DEL PLATA
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
