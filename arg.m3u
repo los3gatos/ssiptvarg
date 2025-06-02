@@ -1110,16 +1110,16 @@ https://play.nexolife.com/cabletel/12d8f003f30f0dec5bca10ab7473dd7b.sdp/chunks_d
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2503/CH_LOGO/800/542/0/0/18862298077160.png" group-title="PCIA BS AS", DBosco Television
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C7SAAD/output.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3082/CH_LOGO/800/542/0/0/88754444078504.png" group-title="PCIA BS AS, CableCoop Charlone
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3082/CH_LOGO/800/542/0/0/88754444078504.png" group-title="PCIA BS AS", CableCoop Charlone
 https://smt-usr-edge01.sensa.com.ar/output/SMT4/CCCD/output.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3422/CH_LOGO/800/542/0/0/60976969078835.png" group-title="PCIA BS AS, NTV Tortuguitas
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3422/CH_LOGO/800/542/0/0/60976969078835.png" group-title="PCIA BS AS", NTV Tortuguitas
 https://smt-usr-edge01.sensa.com.ar/output/SMT5/NTVD/output.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2508/CH_LOGO/800/542/0/0/11083432076534.png" group-title="PCIA BS AS, CLYFER TV
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2508/CH_LOGO/800/542/0/0/11083432076534.png" group-title="PCIA BS AS", CLYFER TV
 https://smt-usr-edge01.sensa.com.ar/output/ARR/CLYFERD/output.mpd
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2509/CH_LOGO/800/542/0/0/88623159076702.png" group-title="PCIA BS AS, CETV Canal Deheza
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2509/CH_LOGO/800/542/0/0/88623159076702.png" group-title="PCIA BS AS", CETV Canal Deheza
 https://smt-usr-edge01.sensa.com.ar/output/ARR/DehezaD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://alternatv.ar/alternatv.png" group-title="PCIA BS AS", ALTERNA TV
