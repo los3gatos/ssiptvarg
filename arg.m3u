@@ -1128,6 +1128,15 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT5/GolcableD/output.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3342/CH_LOGO/800/542/0/0/41079403078757.png" group-title="PCIA BS AS", CELTTV Tornquist
 https://smt-usr-edge01.sensa.com.ar/output/SMT3/CELTTVD/output.mpd
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2531/CH_LOGO/800/542/0/0/91408905077946.png" group-title="PCIA BS AS", Canal 2 Pueblo San José
+https://smt-usr-edge01.sensa.com.ar/output/SMT2/PSJD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2532/CH_LOGO/800/542/0/0/35408141078125.png" group-title="PCIA BS AS", Canal 11 María Juana
+https://smt-usr-edge01.sensa.com.ar/output/SMT5/MariaJuanaD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2533/CH_LOGO/800/542/0/0/70000165078012.png" group-title="PCIA BS AS", Canal 4 Pingüé
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/C4PD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://alternatv.ar/alternatv.png" group-title="PCIA BS AS", ALTERNA TV
 https://alternatv.ar/stream/hls/live.m3u8
 
