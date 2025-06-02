@@ -1526,7 +1526,39 @@ https://cdn.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbLQi-n_QPuNNJp2q6bShw8AG1fYbjosehA&s" group-title="CORDOBA", RADIO COOP ONLINE
 https://cdn.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/800/542/0/0/35003362076629.png" group-title="CORDOBA", Vivencias TV
+https://cdn.sensa.com.ar/output/NDS/vivenciasH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2543/CH_LOGO/800/542/0/0/49748039075506.png" group-title="CORDOBA", Unidos Tv
+https://cdn.sensa.com.ar/output/NDS/unidostvH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3482/CH_LOGO/800/542/0/0/66473712078884.png" group-title="CORDOBA", TV Coop Hernando
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/HERD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3882/CH_LOGO/800/542/0/0/54537430079017.png" group-title="CORDOBA", El Sauce TV Canal Local VGB
+https://smt-usr-edge01.sensa.com.ar/output/ARR3/ElSauceTVD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2941/CH_LOGO/800/542/0/0/21304890078316.png" group-title="CORDOBA", Canal 3 Arroyito
+https://smt-usr-edge01.sensa.com.ar/output/ARR3/C3AD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2801/CH_LOGO/800/542/0/0/56157196078230.png" group-title="CORDOBA", RioTel Río Tercero
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/RTD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2536/CH_LOGO/800/542/0/0/98726444077724.png" group-title="CORDOBA", Canal 2 Almafuerte
+https://smt-usr-edge02.sensa.com.ar/output/ARR/ALMD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2538/CH_LOGO/800/542/0/0/35734658076751.png" group-title="CORDOBA", Cegro General Roca
+https://smt-usr-edge01.sensa.com.ar/output/SMT3/GRD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/800/542/0/0/29838770078011.png" group-title="CORDOBA", Canal 11 Oliva
+https://smt-usr-edge01.sensa.com.ar/output/NDS/OlivaH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3201/CH_LOGO/800/542/0/0/73160833078309.png" group-title="CORDOBA", VIVE TV
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/VIVED/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/800/542/0/0/86198033078075.png" group-title="CORDOBA",TvCoop Suardi
+https://smt-usr-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_aN4zktvPEbP-Scx5PeZQBJOP6u4M1YIsZqx-BGXL7StulojSXG_8BPZ-oOwmNJHkGd-JotS7mMbQfuV4czWSOxZFQnFqIpYHQ" group-title="CORDOBA", RADIO ACTIVA 95.3 FM LUQUE
 https://cdn.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
