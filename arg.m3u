@@ -1528,16 +1528,16 @@ https://cdn.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CORDOBA", TEMPLE TV
 https://cdn.sensa.com.ar/output/STAROSA/TEMPLETVH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="CORDOBA", La Popu 92.3 FM
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="RADIO-CORDOBA", La Popu 92.3 FM
 https://cdn.sensa.com.ar/output/ET-01/popular/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MvVCaQ_ko0Xev4kzyFvX5eZ1Mzd2yGVh2ZJ3oDeXif0n_DYqA6cgjufJ31ZflJLMmAV1bq3vXQ=s160-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Alta Gracia 103.9
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MvVCaQ_ko0Xev4kzyFvX5eZ1Mzd2yGVh2ZJ3oDeXif0n_DYqA6cgjufJ31ZflJLMmAV1bq3vXQ=s160-c-k-c0x00ffffff-no-rj" group-title="RADIO-CORDOBA", Radio Alta Gracia 103.9
 https://stmvideo3.livecastv.com/radioaltagracia/radioaltagracia/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIcMScHiLlcNckXa9v8XOX1UXJpProhCtdcQ&s" group-title="CORDOBA", COSQUIN ROCK RADIO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIcMScHiLlcNckXa9v8XOX1UXJpProhCtdcQ&s" group-title="RADIO-CORDOBA", COSQUIN ROCK RADIO
 https://cdn.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbLQi-n_QPuNNJp2q6bShw8AG1fYbjosehA&s" group-title="CORDOBA", RADIO COOP ONLINE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbLQi-n_QPuNNJp2q6bShw8AG1fYbjosehA&s" group-title="RADIO-CORDOBA", RADIO COOP ONLINE
 https://cdn.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/800/542/0/0/35003362076629.png" group-title="CORDOBA", Vivencias TV
@@ -1574,7 +1574,7 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT4/VIVED/output.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/800/542/0/0/86198033078075.png" group-title="CORDOBA",TvCoop Suardi
 https://smt-usr-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
 
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_aN4zktvPEbP-Scx5PeZQBJOP6u4M1YIsZqx-BGXL7StulojSXG_8BPZ-oOwmNJHkGd-JotS7mMbQfuV4czWSOxZFQnFqIpYHQ" group-title="CORDOBA", RADIO ACTIVA 95.3 FM LUQUE
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_aN4zktvPEbP-Scx5PeZQBJOP6u4M1YIsZqx-BGXL7StulojSXG_8BPZ-oOwmNJHkGd-JotS7mMbQfuV4czWSOxZFQnFqIpYHQ" group-title="RADIO-CORDOBA", RADIO ACTIVA 95.3 FM LUQUE
 https://cdn.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
 
 
