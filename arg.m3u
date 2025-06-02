@@ -1071,7 +1071,7 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ElnueveTV.png/200px-ElnueveTV.png" group-title="PCIA BS AS" , EL NUEVE BAHIA BLANCA
 https://bvclive1.boldmss.com/EL_NUEVE/EL_NUEVE.isml/EL_NUEVE.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Canal_Trece_(Logo_2004).png" group-title="PCIA BS AS" , CANAL 7 DE BAHIA BLANCA
+#EXTINF:-1 tvg-logo="https://www.canalsiete.com.ar/wp-content/uploads/2020/05/Logoweb_2021.png.webp" group-title="PCIA BS AS", CANAL 7 BAHIA BLANCA
 https://bvclive1.boldmss.com/CANAL_7/CANAL_7.isml/CANAL_7.mpd
 
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS", CANAL 2 MAR DEL PLATA
@@ -1138,8 +1138,7 @@ https://play.nexolife.com/canal15/d00176a72283b80d5c8fd05a62c3cbf1.sdp/chunks.m3
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="PCIA BS AS", SPTV Digital
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canalsiete.com.ar/wp-content/uploads/2020/05/Logoweb_2021.png.webp" group-title="PCIA BS AS", CANAL 7 BAHIA BLANCA
-https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="PCIA BS AS", BVC
 https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.m3u8?dvr_window_length=60
