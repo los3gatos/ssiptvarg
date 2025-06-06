@@ -1085,7 +1085,7 @@ https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="PCIA BS AS", CANAL 6 MAR DEL PLATA
 https://panel.host-live.com/8186/8186/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2501/CH_LOGO/800/542/0/0/45581772073270.png"  group-title="PCIA BS AS, Punta Alta Visión
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2501/CH_LOGO/800/542/0/0/45581772073270.png"  group-title="PCIA BS AS", Punta Alta Visión
 https://smt-usr-edge01.sensa.com.ar/output/SMT2/CEPATVD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png" group-title="PCIA BS AS", CANAL 10 MAR DEL PLATA
