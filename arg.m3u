@@ -735,6 +735,18 @@ http://190.60.40.37:8001/play/a099
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/f/f/4ffd587a23debd6faa287395b2485dab_icon.png" group-title="CINE", Free tv
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
 
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/coco.png"  group-title="CINE", COCO HD
+https://otakon.bemtv.cn/STREAM/8077/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/coco.png"  group-title="CINE", CoCo TV
+https://otakon.bemtv.cn/STREAM/8078/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/chochotv.png" group-title="CINE", ChoCho HD
+https://otakon.bemtv.cn/STREAM/8079/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/chochotv.png" group-title="CINE", ChoCho TV
+https://otakon.bemtv.cn/STREAM/8080/playlist.m3u8
+
 #EXTINF:-1 channel-id="pluto-63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" tvg-chno="104" group-title="SERIES" , CSI: Miami
 https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
