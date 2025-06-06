@@ -1571,10 +1571,6 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT3/GRD/output.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/800/542/0/0/29838770078011.png" group-title="CORDOBA", Canal 11 Oliva
 https://smt-usr-edge01.sensa.com.ar/output/NDS/OlivaH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3201/CH_LOGO/800/542/0/0/73160833078309.png" group-title="CORDOBA", VIVE TV
-https://smt-usr-edge01.sensa.com.ar/output/SMT4/VIVED/output.mpd
-
-
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/800/542/0/0/86198033078075.png" group-title="CORDOBA",TvCoop Suardi
 https://smt-usr-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
 
@@ -2336,6 +2332,9 @@ http://arcast.net:1935/correadigital/canal12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vivetv.com.ar/imagenes/logo_vivetv_web.png" group-title="SANTA FE", VIVE TV FUNES SANTA FE
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://vivetv.com.ar/imagenes/logo_vivetv_web.png" group-title="SANTA FE", VIVE TV FUNES SANTA FE
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/VIVED/output.mpd
 
 #EXTINF:-1 tvg-logo="https://canal3tacural.com.ar/wp-content/uploads/2023/05/cropped-logo_canal3tacural.jpg" group-title="SANTA FE", CANAL 3 TACURAL
 https://canal3tacural.site:4443/hls/canal3_hd.m3u8
