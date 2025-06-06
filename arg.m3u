@@ -2570,7 +2570,32 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 
 
+#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_kids.png" group-title="CINE", FMH Kids
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_kids.png" group-title="CINE", FMH Kids op2
+https://live-evg1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_kids.png" group-title="CINE", FMH Kids op3
+https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_movies.png" group-title="CINE", FMH Movies
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_movies.png" group-title="CINE", FMH Movies op2
+https://live-zlr1.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_movies.png" group-title="CINE", FMH Movies op3
+https://live-evg1.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" group-title="CINE", CINE BLUB
+https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" group-title="CINE", CINE BLUB op2
+https://live-zlr1.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" group-title="CINE", CINE BLUB op3
+https://live-evg1.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
 
 
 
