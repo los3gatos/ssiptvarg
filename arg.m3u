@@ -1581,6 +1581,12 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_aN4zktvPEbP-Scx5PeZQBJOP6u4M1YIsZqx-BGXL7StulojSXG_8BPZ-oOwmNJHkGd-JotS7mMbQfuV4czWSOxZFQnFqIpYHQ" group-title="RADIO-CORDOBA", RADIO ACTIVA 95.3 FM LUQUE
 https://cdn.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="CORDOBA", COOPLUS
+https://smt-usr-edge01.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="CORDOBA", COOPLUS
+http://cdn.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
+
 
 
 
@@ -2073,6 +2079,10 @@ https://inliveserver.com:1936/12020/12020/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NEUQUEN", RADIO MAS WEB
 https://inliveserver.com:1936/9014/9014/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/800/542/0/0/11228946078364.png" group-title="NEUQUEN", Coopetel TV - El Bolsón   
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/CPTD/output.mpd
 
 
 
