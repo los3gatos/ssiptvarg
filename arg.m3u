@@ -208,11 +208,8 @@ http://181.209.114.13:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="NACIONALES", TEC TV
 http://200.121.48.17:8000/play/a14r/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="NACIONALES", LA 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
@@ -299,44 +296,6 @@ http://200.121.48.17:8000/play/a14m/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="EVENTOS TyC PLAY", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
