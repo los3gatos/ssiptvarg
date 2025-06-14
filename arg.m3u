@@ -2075,8 +2075,8 @@ https://videostream.shockmedia.com.ar:19360/canallavoztv/canallavoztv.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://www.elonce.com/galeria/sitio/logo-elonce.svg" group-title="ENTRE RIOS",  EL ONCE PARANA
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@eloncecom/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_9_Litoral_2021.png/133px-Canal_9_Litoral_2021.png" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
@@ -2649,7 +2649,7 @@ https://vivo.solumedia.com:19360/radiosanjorge/radiosanjorge.m3u8
 https://inliveserver.com:1936/12030/12030/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://elcaletenseradio.com.ar/03-2022/b95960a8fd16b1e030f73162697125a7.jpg" group-title="SANTA CRUZ", El Caletense 98.5 FM  Caleta Olivia
-https://nd106.republicaservers.com:4433/hls/elcaletense/1_0/index.m3u8?sessId=2680937
+https://nd106.republicaservers.com:4433/hls/elcaletense/index.m3u8
 
 
 
