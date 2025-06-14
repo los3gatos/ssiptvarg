@@ -701,7 +701,7 @@ https://otakon.bemtv.cn/STREAM/22998/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://meta.nordvpn.best/golplay-hd.png" group-title="DEPORTIVOS", Gol Play HD 
 https://metalgear.bemtv.cn/STREAM/22814/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/vix.png"  group-title="DEPORTIVOS", VIX+ HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/vix.png"  group-title="DEPORTIVOS", VIX+ HD
 https://otakon.bemtv.cn/STREAM/22894/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meta.nordvpn.best/dazn1.png" group-title="DEPORTIVOS", DAZN 1 
