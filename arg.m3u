@@ -395,7 +395,7 @@ https://otakon.bemtv.cn/STREAM/23195/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://meta.nordvpn.best/tigosports.png"  group-title="DEPORTIVOS", Tigo Sports HD (Panama)
 https://bigboss.bemtv.cn/STREAM/13118/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/futv.png",  group-title="DEPORTIVOS" FuTV HD 
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/futv.png" group-title="DEPORTIVOS",   FuTV HD 
 https://bigboss.bemtv.cn/STREAM/22555/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://meta.nordvpn.best/skysportsmx.png"  group-title="DEPORTIVOS", Sky Sports 1 HD
