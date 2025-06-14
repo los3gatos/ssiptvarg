@@ -295,8 +295,6 @@ http://200.121.48.17:8000/play/a14m/index.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ" group-title="EVENTOS TyC PLAY", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 
@@ -1441,6 +1439,8 @@ http://streamer.fmfutura.com.ar:8000/vivo.mp3
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkLfeYk1_Q1pSTFmsHcH1MRK2plnpheA_Lg&s" group-title="PCIA BS AS", CANAL 12 TRENQUE LAUQUEN
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Canal12TrenqueLauquen/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_10_de_Jun%C3%ADn_%28Logo_Noviembre_2022%29.png" group-title="PCIA BS AS", CANAL 10 DE JUNIN
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
