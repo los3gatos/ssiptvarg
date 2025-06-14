@@ -635,69 +635,67 @@ https://metalgear.bemtv.cn/STREAM/8318/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/sportv_br.png"  group-title="DEPORTIVOS", Sport TV HD
 https://metalgear.bemtv.cn/STREAM/8316/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/sportv2_br.png"  group-title="DEPORTIVOS", Sport TV 2 HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/sportv2_br.png"  group-title="DEPORTIVOS", Sport TV 2 HD
 https://metalgear.bemtv.cn/STREAM/8314/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/sportv3_br.png"  group-title="DEPORTIVOS", Sport TV 3 HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/sportv3_br.png"  group-title="DEPORTIVOS", Sport TV 3 HD
 https://metalgear.bemtv.cn/STREAM/8312/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere Clubes HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere Clubes HD
 https://otakon.bemtv.cn/STREAM/8307/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 2 HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 2 HD
 https://metalgear.bemtv.cn/STREAM/8306/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 3 HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 3 HD
 https://metalgear.bemtv.cn/STREAM/8304/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 4 HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 4 HD
 https://metalgear.bemtv.cn/STREAM/8302/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 5 HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 5 HD
 https://metalgear.bemtv.cn/STREAM/8300/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 6 HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 6 HD
 https://metalgear.bemtv.cn/STREAM/8298/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 7 HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/premiere_futebol_clube.png"  group-title="DEPORTIVOS", Premiere 7 HD
 https://metalgear.bemtv.cn/STREAM/8297/playlist.m3u8
 
-
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/combate_tv_br.png"  group-title="DEPORTIVOS", Combate HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/combate_tv_br.png"  group-title="DEPORTIVOS", Combate HD
 https://metalgear.bemtv.cn/STREAM/8309/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fish_tv_br.png"  group-title="DEPORTIVOS", Fish TV HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/fish_tv_br.png"  group-title="DEPORTIVOS", Fish TV HD
 https://metalgear.bemtv.cn/STREAM/8364/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="524" tvg-logo="http://meta.nordvpn.best/mlb_network.png"  group-title="DEPORTIVOS", MLB Internacional HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/mlb_network.png"  group-title="DEPORTIVOS", MLB Internacional HD
 https://otakon.bemtv.cn/STREAM/19190/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/px_mx_sports.png"  group-title="DEPORTIVOS", PX Sports
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/px_mx_sports.png"  group-title="DEPORTIVOS", PX Sports
 https://otakon.bemtv.cn/STREAM/16140/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/tudn.png"  group-title="DEPORTIVOS", TUDN HD - Centro America
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/tudn.png"  group-title="DEPORTIVOS", TUDN HD - Centro America
 https://otakon.bemtv.cn/STREAM/8474/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", Copa DSports ARG
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", Copa DSports ARG
 https://metalgear.bemtv.cn/STREAM/22645/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", Copa DSports CO
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", Copa DSports CO
 https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", Copa DSports PE
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", Copa DSports PE
 https://otakon.bemtv.cn/STREAM/21240/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", COPA DSports PY
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", COPA DSports PY
 https://otakon.bemtv.cn/STREAM/22995/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", COPA Gol TV - EC HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", COPA Gol TV - EC HD
 https://otakon.bemtv.cn/STREAM/22997/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", Copa Gol TV - SUR HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", Copa Gol TV - SUR HD
 https://metalgear.bemtv.cn/STREAM/22982/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", COPA G4 HD
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/dmx1.png"  group-title="DEPORTIVOS", COPA G4 HD
 https://otakon.bemtv.cn/STREAM/22998/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meta.nordvpn.best/golplay-hd.png" group-title="DEPORTIVOS", Gol Play HD 
@@ -745,10 +743,10 @@ https://metalgear.bemtv.cn/STREAM/23019/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://meta.nordvpn.best/daznf1.png" group-title="DEPORTIVOS", DAZN F1 
 https://bigboss.bemtv.cn/STREAM/23021/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png"  group-title="DEPORTIVOS", Fox Sports 3 HD (ARG)
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png"  group-title="DEPORTIVOS", Fox Sports 3 HD (ARG)
 https://bigboss.bemtv.cn/STREAM/23022/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_global.png"  group-title="DEPORTIVOS", Fox Sports HD (ARG)
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/fox_sports_global.png"  group-title="DEPORTIVOS", Fox Sports HD (ARG)
 https://bigboss.bemtv.cn/STREAM/23023/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://meta.nordvpn.best/ufcpass.png" group-title="DEPORTIVOS", UFC Fight BR 
