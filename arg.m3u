@@ -1098,7 +1098,7 @@ https://otakon.bemtv.cn/STREAM/8078/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://meta.nordvpn.best/chochotv.png" group-title="CINE", ChoCho HD
 https://otakon.bemtv.cn/STREAM/8079/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/chochotv.png" group-title="INFANTIL", ChoCho TV
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/chochotv.png" group-title="CINE", ChoCho TV
 https://otakon.bemtv.cn/STREAM/8080/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-63eb9255c111bc0008fe6ec4" tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" tvg-chno="104" group-title="SERIES" , CSI: Miami
@@ -3115,7 +3115,7 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a2
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&ads.coppa=1&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0yk7_PeURJ-mtnHG9jPaoMAjh3zlgwOxt0yCdXNwDsCT0h9PpEG3PBaYhLYaUIW63Ds&usqp=CAU" group-title="ENTRETENIMIENTO", Canal 74 TV 
-https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
+https://eu1.servers10.com:8081/8050/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281345/images/logod.png?t=638225344170000000" group-title="INFANTIL" , EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8  
