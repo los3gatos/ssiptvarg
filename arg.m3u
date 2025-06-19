@@ -4376,26 +4376,7 @@ https://stmvideo1.livecastv.com/tvsion/tvsion/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.neuquencapital.gov.ar/modernizacion/wp-content/uploads/sites/5/2019/12/logo.png" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Mirador Paseo Limay)
-https://nqnmunicam.ddns.net/camnqn/rotonda_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.neuquencapital.gov.ar/modernizacion/wp-content/uploads/sites/5/2019/12/logo.png" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Parque)
-https://nqnmunicam.ddns.net/camnqn/parque_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.neuquencapital.gov.ar/modernizacion/wp-content/uploads/sites/5/2019/12/logo.png" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Monumento)
-https://nqnmunicam.ddns.net/camnqn/monumento2_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.neuquencapital.gov.ar/modernizacion/wp-content/uploads/sites/5/2019/12/logo.png" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Monumento)
-https://nqnmunicam.ddns.net/camnqn/monumento_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.neuquencapital.gov.ar/modernizacion/wp-content/uploads/sites/5/2019/12/logo.png" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Rio)
-https://nqnmunicam.ddns.net/camnqn/rio_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.neuquencapital.gov.ar/modernizacion/wp-content/uploads/sites/5/2019/12/logo.png" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (plaza banderas)
-https://nqnmunicam.ddns.net/camnqn/domo_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.neuquencapital.gov.ar/modernizacion/wp-content/uploads/sites/5/2019/12/logo.png" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Balneario Sandra Canale)
-https://nqnmunicam.ddns.net/camnqn/sandracanale/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", PINAMAR
 https://wowza.telpin.com.ar:1935/camara-bypdomo/smil:camara-bypdomo.smil/playlist.m3u8
