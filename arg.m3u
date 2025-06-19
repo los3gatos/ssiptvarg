@@ -2653,6 +2653,16 @@ https://nd106.republicaservers.com:4433/hls/elcaletense/index.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
 https://cdn.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
  
@@ -2739,6 +2749,9 @@ https://panel.host-live.com:19360/8062/8062.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--CISC.png" group-title="SANTA FE", CISC Canal 4
 https://play.redcentro.org:8081/canal4sancristobal/indexc4sc.m3u8
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2025/05/37-gdi-television-420x315.jpg" group-title="SANTA FE", GDI TELEVISION
+https://stmv1.voxtvhd.com.br/generacionimpact/generacionimpact/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sol915.com.ar/wp-content/uploads/2021/12/logosolplay-x1-mobile-22.png" group-title="SANTA FE", SOL 91.5 SANTA FE    
 https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
