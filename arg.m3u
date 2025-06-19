@@ -2885,8 +2885,6 @@ https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="URUGUAY", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="URUGUAY", Latino Kids TV 
-https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1178750142335393800/ZRG8-qD8_400x400.jpg" group-title="URUGUAY", TV CHARRUA
 https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
@@ -2898,7 +2896,10 @@ https://stream.vivotv.uy/hls/stream.m3u8
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hM1tpQ7lGzoKJgbZ1Fg0PZvS_PeypucTuMMTJvHYNT1DE-a44M_WSeIqOOG3bOK_TaSf=w240-h480" group-title="URUGUAY", Canal Más
-https://clientestv.bachistreaming.com:3721/multi_web/play.m3u8  
+https://clientestv.bachistreaming.com:3721/multi_web/play.m3u8 
+
+#EXTINF:-1 tvg-logo="https://zoe.com.uy/wp-content/uploads/2020/09/Mvtv-banner-1.png" group-title="URUGUAY", MV TV
+https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
 
 
 
