@@ -1,6 +1,14 @@
 #EXTM3U       
   
+#EXTINF:-1 tvg-logo="https://i.ibb.co/29TZHZF/El-Siete-Mendoza.png" group-title="TV",El Siete Mendoza
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@elsietemendoza/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv3XjjL/El-Doce-C-RDOBA.png" group-title="TV",El Doce CORDOBA SATELITAL
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@eldoce/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
-http://mcgo1.boldmss.com/CANAL_21/CANAL_21_MC.isml/CANAL_21_MC.mpd
+
+
+#EXTINF:-1 ch-number="12" tvg-id="eldoce tvg-name="135#El Doce CANAL 12 DE CORDOBA" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Córdoba", El Doce Córdoba (señal secundaria)
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@eldoce/live&uuid=wT+DJMPhsB3a79KOF47Ig4BmRMPmpaGPvDnezQKSiGc=
+
+
