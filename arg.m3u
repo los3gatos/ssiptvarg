@@ -271,14 +271,8 @@ https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/g
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NOTICIAS NACIONALES", EL TRECE NOTICIERO 
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Telefe_Noticias_2017.png" group-title="NOTICIAS NACIONALES", TELEFE NOTICIAS
-https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Telefenoticias/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
-
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LR6.png" group-title="NOTICIAS NACIONALES", MITRE
 https://live-05-13-mitre.vodgc.net/live-05-13-mitre/tracks-v1a1/mono.m3u8 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Radio_10_logo.png" group-title="NOTICIAS NACIONALES", RADIO 10
-https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Radio10am/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="NOTICIAS NACIONALES", CADENA 3
 https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
@@ -1116,7 +1110,6 @@ http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQgTHDJzDv9sEtEIcrLzyhC8PwZ3fBjBAFxg&s" group-title="INFANTIL", El Chavo 
 https://otakon.bemtv.cn/STREAM/23447/playlist.m3u8
 
@@ -1250,7 +1243,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/telemixlive/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="AMBA", Urbana TeVe 32.2
 https://live-stream.iblups.com/video/a3c661a7c36e8353498964d63e4e608cbfcafbdb.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7I0zWtQMqn89q-FogIvkNaXTkzuebid_ojBFpc9K-2A4SusTa7dCe2WDWGX6pD_l-P21C_7nFFvqh3Ornml6OQWgpd49s9e2IluOopKfnS4TsYkQWINZYcAXWsiWhy4e2CstHT0za7pVzDEfy34Q5P9iKR5cR06ZqVwmmkllaoLJ5i3EoOhNS7hJjsKI/s200-rw/487835247_644759884858862_8134001419385873427_n.png" group-title="AMBA", VIAJAR
 https://dr2t9f8nivbc6.cloudfront.net/hls/HL3SLDA/8AEDE38B77B3/m.m3u8
 
@@ -1283,8 +1275,6 @@ https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/chunklist_w1870422688.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png" group-title="AMBA", CANAL 3 ARGENTINA
 https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRODIbru9p7WEmGxRJ6HXR_kHlxxFgaDSyfOQ&s" group-title="AMBA", SION TV
 https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
@@ -1445,8 +1435,6 @@ http://streamer.fmfutura.com.ar:8000/vivo.mp3
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkLfeYk1_Q1pSTFmsHcH1MRK2plnpheA_Lg&s" group-title="PCIA BS AS", CANAL 12 TRENQUE LAUQUEN
-https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@Canal12TrenqueLauquen/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Canal_10_de_Jun%C3%ADn_%28Logo_Noviembre_2022%29.png" group-title="PCIA BS AS", CANAL 10 DE JUNIN
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
@@ -1972,6 +1960,10 @@ http://cdn.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.fmmaslacarlota.com.ar/img/logo_1643643551.gif" group-title="RADIO-CORDOBA", FM MAS TV LA CARLOTA CORDOBA
 http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
 
@@ -2081,8 +2073,10 @@ https://videostream.shockmedia.com.ar:19360/canallavoztv/canallavoztv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.elonce.com/galeria/sitio/logo-elonce.svg" group-title="ENTRE RIOS",  EL ONCE PARANA
-https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@eloncecom/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_9_Litoral_2021.png/133px-Canal_9_Litoral_2021.png" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
@@ -2277,8 +2271,6 @@ https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/canal7-mendoza.png" group-title="MENDOZA", CANAL SIETE DE MENDOZA
-https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@elsietemendoza/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
@@ -2461,7 +2453,6 @@ https://inliveserver.com:1936/12020/12020/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEUQUEN", RADIO MAS WEB
 https://inliveserver.com:1936/9014/9014/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/800/542/0/0/11228946078364.png" group-title="NEUQUEN", Coopetel TV - El Bolsón   
 https://smt-usr-edge01.sensa.com.ar/output/SMT4/CPTD/output.mpd
 
@@ -2476,7 +2467,6 @@ https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/playlist.m3u8?wo
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeR2qhsy-yzhJZWwDo50Rg1a3KzFBUqb5EH6bkemtGb_GnIIFhBBlN4jzqIFBHcngA15WB5P6gRV-XyVJM_jyZYgI1L9NdALjww1JRnPEde8dNBd0yo7Sgjf_HP40Pn2V2xH28bzJ0NyvNJ-z8Jlu6dlFudJ8AQuWNlHOvCISw7tsMMjoQreVqVws1dtA/s200-rw/images-removebg-preview.png" group-title="RIO NEGRO", ABTV
 https://videostream.shockmedia.com.ar:19360/abtvbariloche/abtvbariloche.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://zerofm.com.ar/wp-content/uploads/2020/05/radiozero-200.png" group-title="RIO NEGRO", RADIO ZERO 94.5 FM CATRIEL  
 https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
@@ -2540,8 +2530,6 @@ https://panel.host-live.com:19360/8160/8160.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_(Logo_2018).png" group-title="SAN JUAN", CANAL 8 DE SAN JUAN
-https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@canal8sanjuan./live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png/133px-Channel_4_logo_%28San_Juan%2C_Argentina%29_.png" group-title="SAN JUAN", CANAL 4 SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
@@ -2861,8 +2849,6 @@ https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png"  group-title="TUCUMAN", AMERICA TUCUMAN
-https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@AmericaTucuman/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPkoMgNeNKLxEvCJoh6Zlms2uYE05yG53weTL1Oivm_VRyDtNleO9gf1oKgY4cTHYpFA&usqp=CAU" group-title="TUCUMAN", EL OCHO TUCUMAN
 https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/elocho.m3u8
@@ -2887,6 +2873,13 @@ https://panel.host-live.com:19360/metropolitanafm/metropolitanafm.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigiWsXaX5t91OcQbGYaGaEwGZfXUxpqmrGzDtZDkfmmbREUckcSycpUsPH8Tkv7K3y6Ch6M3wjdIto6rcxlMSYJ--gA245aHyOlFX1Vvb90vro7viKj7c4XCU1zGOpLhx-27nuwJcsYdI/s1600/logochicolargo2020+arreglada+.jpg" group-title="TUCUMAN", RADIOS TUCUMAN
 https://videostream.shockmedia.com.ar:19360/rttvoficial/rttvoficial.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://logo.com/logo.png"  group-title="URUGUAY", Canal 4 
@@ -2970,32 +2963,6 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula5.mp4
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 
 
-#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_kids.png" group-title="CINE", FMH Kids
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_kids.png" group-title="CINE", FMH Kids op2
-https://live-evg1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_kids.png" group-title="CINE", FMH Kids op3
-https://live-zlr1.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_movies.png" group-title="CINE", FMH Movies
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_movies.png" group-title="CINE", FMH Movies op2
-https://live-zlr1.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_movies.png" group-title="CINE", FMH Movies op3
-https://live-evg1.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" group-title="CINE", CINE BLUB
-https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" group-title="CINE", CINE BLUB op2
-https://live-zlr1.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" group-title="CINE", CINE BLUB op3
-https://live-evg1.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
 
 
 
