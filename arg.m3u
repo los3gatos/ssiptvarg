@@ -1630,9 +1630,6 @@ https://tv.streamcasthd.com:3012/live/urbanatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1460_FM_Universo.png" group-title="RADIO-PCIA BS AS", FM Universo 93.1 Mercedes
 https://stmvideo6.livecastv.com/elborne/elborne/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ROCKZ.png" group-title="RADIO-PCIA BS AS", FM Rock 103.3 Zarate
-https://panel.host-live.com/8144/8144/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.jumplay.com.ar/img/logo_1709226569.png" group-title="RADIO-PCIA BS AS", JumPlay OLAVARRIA
 https://inliveserver.com:1936/17050/17050/playlist.m3u8
 
@@ -1684,10 +1681,11 @@ https://stmv5.livecastv.com/latribuna/latribuna/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI966.png" group-title="RADIO-PCIA BS AS", Cadena 103 Olavarría
 https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-POWER.png" group-title="RADIO-PCIA BS AS", Power 100.3 FM Pinamar
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI954.png" group-title="RADIO-PCIA BS AS", RCC Comunidad 97.9 FM Claromeco
+https://live.enhdtv.com:8081/rcc979/index.m3u8
 
 
 
